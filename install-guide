@@ -1,0 +1,129 @@
+	Pre-install
+loadkeys dvorak
+
+iwctl
+    device list
+    station name scan
+    station name get-networks
+    station name connect network-name
+    exit
+
+pacman -Syy reflector
+cp /etc/pacman.d/mirrorlist /etc/pacman.d/mirrorlist.bkp
+reflector --country 'Brazil' --latest 5 --age 2 --fastest 5 --protocol https --sort rate --save /etc/pacman.d/mirrorlist
+pacman -Syy
+
+	File System
+fdisk -l
+fdisk /dev/(Partitions)
+      g, n, t, w
+mkfs.fat -F32 /dev/boot
+mkfs.ext4 /dev/root
+
+mount /dev/root /mnt
+mkdir /mnt/boot
+mkdir /mnt/boot/efi
+mkdir /mnt/home
+mount /dev/boot /mnt/boot/efi
+mount /dev/home /mnt/home
+
+mkdir /mnt/etc
+genfstab -U -p /mnt >> /mnt/etc/fstab
+cat /mnt/etc/fstab
+
+pacstrap -i /mnt base base-devel linux linux-firmware linux-headers vim
+
+arch-chroot /mnt
+
+	Locale and user settings
+ln -sf /usr/share/zoneinfo/Brazil/West /etc/localtime
+
+hwclock --systohc
+
+vim /etc/locale.gen (uncomment en_US pt_BR)
+locale-gen
+
+echo archpc >> /etc/hostname
+vim /etc/hosts
+	127.0.0.1	localhost
+	::1		localhost
+	127.0.1.1	archpc.localdomain	archpc
+echo KEYMAP=dvorak >> /etc/vconsole.conf
+
+passwd
+useradd -m -g users -G wheel louues
+usermod -aG wheel,audio,video,optical,storage louues
+passwd user
+
+pacman -S sudo
+EDITOR=vim visudo
+	Uncomment to allow members of group wheel to execute any command
+
+#Removable Device
+vim /etc/mkinitcpio.conf
+    HOOKS block keyboard (before autodetect)
+mkinitcpio -p linux
+
+	Grub
+pacman -S grub efibootmgr dosfstools os-prober mtools
+grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=grub_uefi (--removable) --recheck
+cp /usr/share/locale/en\@quot/LC_MESSAGES/grub.mo /boot/grub/locale/en.mo
+grub-mkconfig -o /boot/grub/grub.cfg
+
+	Network
+pacman -S networkmanager
+systemctl enable NetworkManager
+
+	Exit
+exit
+umount -l /mnt
+reboot
+
+	After Install
+
+	Install Pacman Programs
+sudo vim /etc/pacman.conf
+     include multilib
+sudo pacman -S xorg xorg-server xorg-server-devel openssh intel-ucode nvidia nvidia-utils nvidia-settings opencl-nvidia git awesome alacritty fish picom pulseaudio alsa-utils nitrogen firefox qutebrowser libreoffice thunderbird gimp neofetch neovim exa sl ranger htop ncdu ntfs-3g unzip unrar p7zip flameshot pcmanfm cmus wget mupdf yt-dlp cups cups-filters cups-pdf gutenprint foomatic-db-gutenprint-ppds ghostscript gsfonts libcups simple-scan wine steam ttf-liberation lutris discord bitwarden pymol qbittorrent vlc
+
+	Install yay
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+yay -S ly pfetch whatsdesk-bin chimerax woeusb minecraft-launcher snapd
+
+	Ly Login Manager
+sudo systemctl enable ly.service
+
+     Snapd
+sudo systemctl enable --now snapd.socket
+sudo snap install youtube-music-desktop-app
+
+     Config Files
+git clone https://gitlab.com/louues/backup-files.git
+cp -r ~/backup-files/dotconfig/alacritty ~/.config/
+cp -r ~/backup-files/dotconfig/awesome ~/.config/
+cp -r ~/backup-files/dotconfig/fish ~/.config/
+cp -r ~/backup-files/dotconfig/picom ~/.config/
+cp -r ~/backup-files/scripts ~/
+cp -r ~/backup-files/autodock ~/
+cp -r ~/backup-files/music ~/
+cp -r ~/backup-files/efeitos-sonoros ~/
+cp -r ~/backup-files/wallpapers ~/
+cp -r ~/backup-files/Xmodmap ~/.Xmodmap
+cp -r ~/backup-files/code ~/
+cp -r ~/backup-files/csgo ~/
+
+    Install Doom Emacs
+sudo pacman -S emacs ripgrep fd
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+~/.config/emacs/bin/doom install (yes to all questions)
+fish_add_path ~/.config/emacs/bin
+cp ~/backup-files/dotconfig/doom ~/.config/
+doom sync
+
+     Configure Printer
+sudo systemctl enable cups
+sudo systemctl start cups
+In Browser -> localhost:631
+   Administration -> Add Printer
