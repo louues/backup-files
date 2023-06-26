@@ -1,0 +1,1857 @@
+2023-05-05T22:28:26.642Z [Modules] Modules initializing
+2023-05-05T22:28:26.646Z [Modules] Distribution: remote
+2023-05-05T22:28:26.648Z [Modules] Host updates: enabled
+2023-05-05T22:28:26.649Z [Modules] Module updates: enabled
+2023-05-05T22:28:26.650Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-05T22:28:26.650Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-05T22:28:26.650Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-05T22:28:27.166Z [Modules] Bootstrapping...
+2023-05-05T22:28:27.168Z [Modules] Installing discord_desktop_core@0 from /opt/discord/resources/bootstrap/discord_desktop_core.zip
+2023-05-05T22:28:27.170Z [Modules] Failed installing discord_desktop_core@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_desktop_core.zip'
+2023-05-05T22:28:27.173Z [Modules] Installing discord_erlpack@0 from /opt/discord/resources/bootstrap/discord_erlpack.zip
+2023-05-05T22:28:27.174Z [Modules] Failed installing discord_erlpack@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_erlpack.zip'
+2023-05-05T22:28:27.175Z [Modules] Installing discord_spellcheck@0 from /opt/discord/resources/bootstrap/discord_spellcheck.zip
+2023-05-05T22:28:27.176Z [Modules] Failed installing discord_spellcheck@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_spellcheck.zip'
+2023-05-05T22:28:27.177Z [Modules] Installing discord_utils@0 from /opt/discord/resources/bootstrap/discord_utils.zip
+2023-05-05T22:28:27.177Z [Modules] Failed installing discord_utils@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_utils.zip'
+2023-05-05T22:28:27.178Z [Modules] Installing discord_voice@0 from /opt/discord/resources/bootstrap/discord_voice.zip
+2023-05-05T22:28:27.179Z [Modules] Failed installing discord_voice@0: Error: ENOENT: no such file or directory, open '/opt/discord/resources/bootstrap/discord_voice.zip'
+2023-05-05T22:28:27.179Z [Modules] Finished module installations. [success: 0] [failure: 5]
+2023-05-05T22:28:27.180Z [Modules] Checking for host updates.
+2023-05-05T22:28:27.958Z [Modules] Host is up to date.
+2023-05-05T22:28:27.959Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T22:28:28.093Z [Modules] Module update available: discord_desktop_core@1 [installed: 0]
+2023-05-05T22:28:28.093Z [Modules] Module update available: discord_erlpack@1 [installed: 0]
+2023-05-05T22:28:28.093Z [Modules] Module update available: discord_spellcheck@1 [installed: 0]
+2023-05-05T22:28:28.093Z [Modules] Module update available: discord_utils@1 [installed: 0]
+2023-05-05T22:28:28.094Z [Modules] Module update available: discord_voice@1 [installed: 0]
+2023-05-05T22:28:28.094Z [Modules] Fetching discord_desktop_core@1 from https://discord.com/api/modules/stable/discord_desktop_core/1
+2023-05-05T22:28:28.095Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-05-05T22:28:28.569Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 3%
+2023-05-05T22:28:28.572Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 4%
+2023-05-05T22:28:28.623Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 5%
+2023-05-05T22:28:28.630Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 6%
+2023-05-05T22:28:28.638Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 7%
+2023-05-05T22:28:28.671Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 8%
+2023-05-05T22:28:28.674Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 9%
+2023-05-05T22:28:28.682Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 10%
+2023-05-05T22:28:28.686Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 11%
+2023-05-05T22:28:28.694Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 12%
+2023-05-05T22:28:28.699Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 13%
+2023-05-05T22:28:28.705Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 14%
+2023-05-05T22:28:28.718Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 15%
+2023-05-05T22:28:28.723Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 17%
+2023-05-05T22:28:28.727Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 18%
+2023-05-05T22:28:28.731Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 19%
+2023-05-05T22:28:28.736Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 20%
+2023-05-05T22:28:28.740Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 21%
+2023-05-05T22:28:28.745Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 22%
+2023-05-05T22:28:28.749Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 23%
+2023-05-05T22:28:28.753Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 24%
+2023-05-05T22:28:28.757Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 25%
+2023-05-05T22:28:28.761Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 26%
+2023-05-05T22:28:28.765Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 27%
+2023-05-05T22:28:28.769Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 28%
+2023-05-05T22:28:28.773Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 29%
+2023-05-05T22:28:28.775Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 30%
+2023-05-05T22:28:28.779Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 33%
+2023-05-05T22:28:28.788Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 37%
+2023-05-05T22:28:28.794Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 40%
+2023-05-05T22:28:28.796Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 41%
+2023-05-05T22:28:28.802Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 45%
+2023-05-05T22:28:28.808Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 49%
+2023-05-05T22:28:28.814Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 53%
+2023-05-05T22:28:28.818Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 55%
+2023-05-05T22:28:28.823Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 59%
+2023-05-05T22:28:28.829Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 63%
+2023-05-05T22:28:28.834Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 68%
+2023-05-05T22:28:28.837Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 70%
+2023-05-05T22:28:28.841Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 74%
+2023-05-05T22:28:28.845Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 77%
+2023-05-05T22:28:28.849Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 81%
+2023-05-05T22:28:28.851Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 85%
+2023-05-05T22:28:28.855Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 89%
+2023-05-05T22:28:28.859Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 93%
+2023-05-05T22:28:28.862Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 98%
+2023-05-05T22:28:28.863Z [Modules] Streaming discord_desktop_core@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip: 100%
+2023-05-05T22:28:28.865Z [Modules] Fetching discord_erlpack@1 from https://discord.com/api/modules/stable/discord_erlpack/1
+2023-05-05T22:28:28.866Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-05-05T22:28:29.138Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 3%
+2023-05-05T22:28:29.138Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 4%
+2023-05-05T22:28:29.140Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 8%
+2023-05-05T22:28:29.140Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 9%
+2023-05-05T22:28:29.142Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 13%
+2023-05-05T22:28:29.143Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 17%
+2023-05-05T22:28:29.145Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 21%
+2023-05-05T22:28:29.147Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 25%
+2023-05-05T22:28:29.149Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 29%
+2023-05-05T22:28:29.150Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 33%
+2023-05-05T22:28:29.151Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 34%
+2023-05-05T22:28:29.152Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 38%
+2023-05-05T22:28:29.154Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 42%
+2023-05-05T22:28:29.157Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 46%
+2023-05-05T22:28:29.157Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 49%
+2023-05-05T22:28:29.159Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 52%
+2023-05-05T22:28:29.160Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 56%
+2023-05-05T22:28:29.162Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 60%
+2023-05-05T22:28:29.162Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 61%
+2023-05-05T22:28:29.164Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 65%
+2023-05-05T22:28:29.165Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 69%
+2023-05-05T22:28:29.166Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 70%
+2023-05-05T22:28:29.167Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 74%
+2023-05-05T22:28:29.169Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 78%
+2023-05-05T22:28:29.171Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 81%
+2023-05-05T22:28:29.173Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 85%
+2023-05-05T22:28:29.174Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 86%
+2023-05-05T22:28:29.175Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 88%
+2023-05-05T22:28:29.188Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 92%
+2023-05-05T22:28:29.190Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 97%
+2023-05-05T22:28:29.191Z [Modules] Streaming discord_erlpack@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip: 100%
+2023-05-05T22:28:29.193Z [Modules] Fetching discord_spellcheck@1 from https://discord.com/api/modules/stable/discord_spellcheck/1
+2023-05-05T22:28:29.193Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-05-05T22:28:29.478Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 1%
+2023-05-05T22:28:29.479Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 2%
+2023-05-05T22:28:29.481Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 3%
+2023-05-05T22:28:29.483Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 4%
+2023-05-05T22:28:29.484Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 5%
+2023-05-05T22:28:29.485Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 6%
+2023-05-05T22:28:29.487Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 7%
+2023-05-05T22:28:29.487Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 8%
+2023-05-05T22:28:29.489Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 9%
+2023-05-05T22:28:29.489Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 10%
+2023-05-05T22:28:29.491Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 11%
+2023-05-05T22:28:29.492Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 12%
+2023-05-05T22:28:29.502Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 13%
+2023-05-05T22:28:29.503Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 14%
+2023-05-05T22:28:29.504Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 15%
+2023-05-05T22:28:29.505Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 16%
+2023-05-05T22:28:29.507Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 17%
+2023-05-05T22:28:29.507Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 18%
+2023-05-05T22:28:29.511Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 19%
+2023-05-05T22:28:29.512Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 20%
+2023-05-05T22:28:29.514Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 21%
+2023-05-05T22:28:29.515Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 22%
+2023-05-05T22:28:29.516Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 23%
+2023-05-05T22:28:29.516Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 24%
+2023-05-05T22:28:29.518Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 25%
+2023-05-05T22:28:29.519Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 26%
+2023-05-05T22:28:29.521Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 27%
+2023-05-05T22:28:29.528Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 28%
+2023-05-05T22:28:29.529Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 29%
+2023-05-05T22:28:29.531Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 30%
+2023-05-05T22:28:29.533Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 31%
+2023-05-05T22:28:29.533Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 32%
+2023-05-05T22:28:29.535Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 33%
+2023-05-05T22:28:29.536Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 34%
+2023-05-05T22:28:29.537Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 35%
+2023-05-05T22:28:29.538Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 36%
+2023-05-05T22:28:29.546Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 37%
+2023-05-05T22:28:29.547Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 38%
+2023-05-05T22:28:29.549Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 39%
+2023-05-05T22:28:29.550Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 40%
+2023-05-05T22:28:29.550Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 41%
+2023-05-05T22:28:29.552Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 42%
+2023-05-05T22:28:29.553Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 43%
+2023-05-05T22:28:29.554Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 44%
+2023-05-05T22:28:29.555Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 45%
+2023-05-05T22:28:29.557Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 46%
+2023-05-05T22:28:29.558Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 47%
+2023-05-05T22:28:29.560Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 48%
+2023-05-05T22:28:29.561Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 49%
+2023-05-05T22:28:29.562Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 50%
+2023-05-05T22:28:29.564Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 51%
+2023-05-05T22:28:29.565Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 52%
+2023-05-05T22:28:29.567Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 53%
+2023-05-05T22:28:29.568Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 54%
+2023-05-05T22:28:29.571Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 55%
+2023-05-05T22:28:29.572Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 56%
+2023-05-05T22:28:29.573Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 57%
+2023-05-05T22:28:29.578Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 58%
+2023-05-05T22:28:29.580Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 59%
+2023-05-05T22:28:29.582Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 60%
+2023-05-05T22:28:29.583Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 61%
+2023-05-05T22:28:29.584Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 62%
+2023-05-05T22:28:29.585Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 63%
+2023-05-05T22:28:29.586Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 64%
+2023-05-05T22:28:29.587Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 65%
+2023-05-05T22:28:29.589Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 66%
+2023-05-05T22:28:29.646Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 67%
+2023-05-05T22:28:29.647Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 68%
+2023-05-05T22:28:29.647Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 69%
+2023-05-05T22:28:29.651Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 70%
+2023-05-05T22:28:29.651Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 72%
+2023-05-05T22:28:29.652Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 74%
+2023-05-05T22:28:29.663Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 75%
+2023-05-05T22:28:29.664Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 77%
+2023-05-05T22:28:29.666Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 78%
+2023-05-05T22:28:29.667Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 80%
+2023-05-05T22:28:29.668Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 82%
+2023-05-05T22:28:29.671Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 84%
+2023-05-05T22:28:29.672Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 85%
+2023-05-05T22:28:29.672Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 86%
+2023-05-05T22:28:29.673Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 88%
+2023-05-05T22:28:29.674Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 89%
+2023-05-05T22:28:29.675Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 90%
+2023-05-05T22:28:29.675Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 91%
+2023-05-05T22:28:29.676Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 93%
+2023-05-05T22:28:29.677Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 94%
+2023-05-05T22:28:29.677Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 95%
+2023-05-05T22:28:29.678Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 96%
+2023-05-05T22:28:29.678Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 97%
+2023-05-05T22:28:29.718Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 98%
+2023-05-05T22:28:29.718Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 99%
+2023-05-05T22:28:29.770Z [Modules] Streaming discord_spellcheck@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip: 100%
+2023-05-05T22:28:29.772Z [Modules] Fetching discord_utils@1 from https://discord.com/api/modules/stable/discord_utils/1
+2023-05-05T22:28:29.772Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-05-05T22:28:30.054Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 2%
+2023-05-05T22:28:30.054Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 4%
+2023-05-05T22:28:30.055Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 6%
+2023-05-05T22:28:30.105Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 9%
+2023-05-05T22:28:30.106Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 13%
+2023-05-05T22:28:30.107Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 15%
+2023-05-05T22:28:30.108Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 19%
+2023-05-05T22:28:30.109Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 22%
+2023-05-05T22:28:30.109Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 24%
+2023-05-05T22:28:30.110Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 26%
+2023-05-05T22:28:30.111Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 29%
+2023-05-05T22:28:30.112Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 35%
+2023-05-05T22:28:30.115Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 37%
+2023-05-05T22:28:30.116Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 40%
+2023-05-05T22:28:30.116Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 44%
+2023-05-05T22:28:30.117Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 49%
+2023-05-05T22:28:30.118Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 51%
+2023-05-05T22:28:30.119Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 54%
+2023-05-05T22:28:30.119Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 57%
+2023-05-05T22:28:30.120Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 59%
+2023-05-05T22:28:30.121Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 63%
+2023-05-05T22:28:30.121Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 64%
+2023-05-05T22:28:30.123Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 66%
+2023-05-05T22:28:30.124Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 69%
+2023-05-05T22:28:30.125Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 77%
+2023-05-05T22:28:30.125Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 82%
+2023-05-05T22:28:30.126Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 86%
+2023-05-05T22:28:30.127Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 90%
+2023-05-05T22:28:30.127Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 95%
+2023-05-05T22:28:30.128Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 96%
+2023-05-05T22:28:30.129Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 98%
+2023-05-05T22:28:30.129Z [Modules] Streaming discord_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip: 100%
+2023-05-05T22:28:30.130Z [Modules] Fetching discord_voice@1 from https://discord.com/api/modules/stable/discord_voice/1
+2023-05-05T22:28:30.131Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-05-05T22:28:30.451Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 1%
+2023-05-05T22:28:30.454Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 2%
+2023-05-05T22:28:30.456Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 3%
+2023-05-05T22:28:30.458Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 5%
+2023-05-05T22:28:30.459Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 7%
+2023-05-05T22:28:30.461Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 8%
+2023-05-05T22:28:30.462Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 9%
+2023-05-05T22:28:30.465Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 10%
+2023-05-05T22:28:30.466Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 11%
+2023-05-05T22:28:30.466Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 12%
+2023-05-05T22:28:30.468Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 13%
+2023-05-05T22:28:30.470Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 14%
+2023-05-05T22:28:30.470Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 15%
+2023-05-05T22:28:30.508Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 16%
+2023-05-05T22:28:30.560Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 17%
+2023-05-05T22:28:30.561Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 18%
+2023-05-05T22:28:30.563Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 19%
+2023-05-05T22:28:30.567Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 20%
+2023-05-05T22:28:30.569Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 22%
+2023-05-05T22:28:30.570Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 23%
+2023-05-05T22:28:30.571Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 24%
+2023-05-05T22:28:30.572Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 25%
+2023-05-05T22:28:30.574Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 26%
+2023-05-05T22:28:30.576Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 27%
+2023-05-05T22:28:30.582Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 28%
+2023-05-05T22:28:30.583Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 29%
+2023-05-05T22:28:30.584Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 30%
+2023-05-05T22:28:30.584Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 31%
+2023-05-05T22:28:30.619Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 32%
+2023-05-05T22:28:30.671Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 33%
+2023-05-05T22:28:30.673Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 34%
+2023-05-05T22:28:30.674Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 35%
+2023-05-05T22:28:30.676Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 36%
+2023-05-05T22:28:30.682Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 37%
+2023-05-05T22:28:30.684Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 38%
+2023-05-05T22:28:30.686Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 39%
+2023-05-05T22:28:30.687Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 40%
+2023-05-05T22:28:30.687Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 41%
+2023-05-05T22:28:30.689Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 42%
+2023-05-05T22:28:30.691Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 43%
+2023-05-05T22:28:30.694Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 44%
+2023-05-05T22:28:30.700Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 45%
+2023-05-05T22:28:30.701Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 46%
+2023-05-05T22:28:30.706Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 47%
+2023-05-05T22:28:30.708Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 48%
+2023-05-05T22:28:30.736Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 49%
+2023-05-05T22:28:30.788Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 50%
+2023-05-05T22:28:30.789Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 51%
+2023-05-05T22:28:30.794Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 52%
+2023-05-05T22:28:30.797Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 53%
+2023-05-05T22:28:30.800Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 54%
+2023-05-05T22:28:30.802Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 55%
+2023-05-05T22:28:30.805Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 56%
+2023-05-05T22:28:30.806Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 57%
+2023-05-05T22:28:30.807Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 58%
+2023-05-05T22:28:30.808Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 59%
+2023-05-05T22:28:30.813Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 61%
+2023-05-05T22:28:30.815Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 65%
+2023-05-05T22:28:30.852Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 66%
+2023-05-05T22:28:30.905Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 67%
+2023-05-05T22:28:30.907Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 68%
+2023-05-05T22:28:30.913Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 70%
+2023-05-05T22:28:30.913Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 71%
+2023-05-05T22:28:30.920Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 74%
+2023-05-05T22:28:30.921Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 75%
+2023-05-05T22:28:30.922Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 76%
+2023-05-05T22:28:30.923Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 77%
+2023-05-05T22:28:30.925Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 78%
+2023-05-05T22:28:30.929Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 79%
+2023-05-05T22:28:30.930Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 80%
+2023-05-05T22:28:30.931Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 81%
+2023-05-05T22:28:30.965Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 82%
+2023-05-05T22:28:30.967Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 83%
+2023-05-05T22:28:30.968Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 84%
+2023-05-05T22:28:31.022Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 85%
+2023-05-05T22:28:31.023Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 86%
+2023-05-05T22:28:31.024Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 87%
+2023-05-05T22:28:31.030Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 89%
+2023-05-05T22:28:31.031Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 90%
+2023-05-05T22:28:31.032Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 91%
+2023-05-05T22:28:31.033Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 92%
+2023-05-05T22:28:31.034Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 93%
+2023-05-05T22:28:31.035Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 94%
+2023-05-05T22:28:31.035Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 95%
+2023-05-05T22:28:31.036Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 96%
+2023-05-05T22:28:31.062Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 97%
+2023-05-05T22:28:31.063Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 98%
+2023-05-05T22:28:31.063Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 99%
+2023-05-05T22:28:31.079Z [Modules] Streaming discord_voice@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip: 100%
+2023-05-05T22:28:31.081Z [Modules] Finished module downloads. [success: 5] [failure: 0]
+2023-05-05T22:28:31.081Z [Modules] Installing updates...
+2023-05-05T22:28:31.082Z [Modules] Installing discord_desktop_core@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_desktop_core-1.zip
+2023-05-05T22:28:31.323Z [Modules] Installing discord_erlpack@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_erlpack-1.zip
+2023-05-05T22:28:31.601Z [Modules] Installing discord_spellcheck@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_spellcheck-1.zip
+2023-05-05T22:28:34.877Z [Modules] Installing discord_utils@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_utils-1.zip
+2023-05-05T22:28:36.339Z [Modules] Installing discord_voice@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_voice-1.zip
+2023-05-05T22:28:38.746Z [Modules] Finished module installations. [success: 5] [failure: 0]
+2023-05-05T22:28:38.746Z [Modules] Checking for host updates.
+2023-05-05T22:28:38.996Z [Modules] Host is up to date.
+2023-05-05T22:28:38.997Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T22:28:39.006Z [Modules] No module updates available.
+2023-05-05T22:28:43.063Z [Modules] Starting to install discord_krisp...
+2023-05-05T22:28:43.064Z [Modules] Fetching discord_krisp@1 from https://discord.com/api/modules/stable/discord_krisp/1
+2023-05-05T22:28:43.064Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-05-05T22:28:43.343Z [Modules] Starting to install discord_game_utils...
+2023-05-05T22:28:43.345Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 1%
+2023-05-05T22:28:43.396Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 2%
+2023-05-05T22:28:43.399Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 3%
+2023-05-05T22:28:43.404Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 4%
+2023-05-05T22:28:43.406Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 5%
+2023-05-05T22:28:43.406Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 6%
+2023-05-05T22:28:43.408Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 7%
+2023-05-05T22:28:43.409Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 8%
+2023-05-05T22:28:43.410Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 9%
+2023-05-05T22:28:43.411Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 10%
+2023-05-05T22:28:43.412Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 11%
+2023-05-05T22:28:43.413Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 12%
+2023-05-05T22:28:43.419Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 13%
+2023-05-05T22:28:43.421Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 14%
+2023-05-05T22:28:43.456Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 16%
+2023-05-05T22:28:43.462Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 17%
+2023-05-05T22:28:43.518Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 18%
+2023-05-05T22:28:43.521Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 19%
+2023-05-05T22:28:43.522Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 20%
+2023-05-05T22:28:43.539Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 21%
+2023-05-05T22:28:43.544Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 22%
+2023-05-05T22:28:43.552Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 23%
+2023-05-05T22:28:43.556Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 24%
+2023-05-05T22:28:43.560Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 25%
+2023-05-05T22:28:43.562Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 26%
+2023-05-05T22:28:43.568Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 27%
+2023-05-05T22:28:43.578Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 28%
+2023-05-05T22:28:43.579Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 29%
+2023-05-05T22:28:43.587Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 31%
+2023-05-05T22:28:43.628Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 32%
+2023-05-05T22:28:43.637Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 33%
+2023-05-05T22:28:43.643Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 34%
+2023-05-05T22:28:43.645Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 35%
+2023-05-05T22:28:43.656Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 36%
+2023-05-05T22:28:43.663Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 37%
+2023-05-05T22:28:43.666Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 38%
+2023-05-05T22:28:43.667Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 39%
+2023-05-05T22:28:43.671Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 40%
+2023-05-05T22:28:43.675Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 41%
+2023-05-05T22:28:43.678Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 42%
+2023-05-05T22:28:43.685Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 43%
+2023-05-05T22:28:43.687Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 44%
+2023-05-05T22:28:43.691Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 45%
+2023-05-05T22:28:43.710Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 46%
+2023-05-05T22:28:43.711Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 47%
+2023-05-05T22:28:43.764Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 48%
+2023-05-05T22:28:43.847Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 49%
+2023-05-05T22:28:43.877Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 52%
+2023-05-05T22:28:43.886Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 53%
+2023-05-05T22:28:43.889Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 54%
+2023-05-05T22:28:43.892Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 55%
+2023-05-05T22:28:43.894Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 56%
+2023-05-05T22:28:43.895Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 57%
+2023-05-05T22:28:43.903Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 59%
+2023-05-05T22:28:43.909Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 60%
+2023-05-05T22:28:43.910Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 61%
+2023-05-05T22:28:43.913Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 62%
+2023-05-05T22:28:43.917Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 65%
+2023-05-05T22:28:43.920Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 67%
+2023-05-05T22:28:44.138Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 68%
+2023-05-05T22:28:44.146Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 69%
+2023-05-05T22:28:44.165Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 70%
+2023-05-05T22:28:44.175Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 71%
+2023-05-05T22:28:44.183Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 72%
+2023-05-05T22:28:44.209Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 73%
+2023-05-05T22:28:44.211Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 74%
+2023-05-05T22:28:44.218Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 80%
+2023-05-05T22:28:44.225Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 83%
+2023-05-05T22:28:44.227Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 85%
+2023-05-05T22:28:44.273Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 86%
+2023-05-05T22:28:44.274Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 87%
+2023-05-05T22:28:44.275Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 88%
+2023-05-05T22:28:44.277Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 89%
+2023-05-05T22:28:44.288Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 90%
+2023-05-05T22:28:44.320Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 91%
+2023-05-05T22:28:44.326Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 92%
+2023-05-05T22:28:44.329Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 93%
+2023-05-05T22:28:44.334Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 94%
+2023-05-05T22:28:44.339Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 95%
+2023-05-05T22:28:44.343Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 96%
+2023-05-05T22:28:44.346Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 97%
+2023-05-05T22:28:44.348Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 98%
+2023-05-05T22:28:44.350Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 99%
+2023-05-05T22:28:44.383Z [Modules] Streaming discord_krisp@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip: 100%
+2023-05-05T22:28:44.386Z [Modules] Fetching discord_game_utils@1 from https://discord.com/api/modules/stable/discord_game_utils/1
+2023-05-05T22:28:44.386Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-05-05T22:28:44.386Z [Modules] Installing discord_krisp@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_krisp-1.zip
+2023-05-05T22:28:44.779Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 2%
+2023-05-05T22:28:44.807Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 3%
+2023-05-05T22:28:44.808Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 5%
+2023-05-05T22:28:44.812Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 8%
+2023-05-05T22:28:44.815Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 21%
+2023-05-05T22:28:44.816Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 27%
+2023-05-05T22:28:44.819Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 29%
+2023-05-05T22:28:44.820Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 35%
+2023-05-05T22:28:44.821Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 37%
+2023-05-05T22:28:44.825Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 40%
+2023-05-05T22:28:44.825Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 53%
+2023-05-05T22:28:44.826Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 58%
+2023-05-05T22:28:44.827Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 64%
+2023-05-05T22:28:44.827Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 69%
+2023-05-05T22:28:44.828Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 74%
+2023-05-05T22:28:44.828Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 77%
+2023-05-05T22:28:44.829Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 80%
+2023-05-05T22:28:44.829Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 82%
+2023-05-05T22:28:44.830Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 84%
+2023-05-05T22:28:44.831Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 95%
+2023-05-05T22:28:44.832Z [Modules] Streaming discord_game_utils@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip: 100%
+2023-05-05T22:28:44.833Z [Modules] Finished module downloads. [success: 2] [failure: 0]
+2023-05-05T22:28:45.659Z [Modules] Checking for host updates.
+2023-05-05T22:28:45.882Z [Modules] Host is up to date.
+2023-05-05T22:28:45.882Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T22:28:45.919Z [Modules] No module updates available.
+2023-05-05T22:28:46.342Z [Modules] Starting to install discord_rpc...
+2023-05-05T22:28:46.342Z [Modules] Fetching discord_rpc@1 from https://discord.com/api/modules/stable/discord_rpc/1
+2023-05-05T22:28:46.342Z [Modules] Streaming discord_rpc@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-05-05T22:28:46.645Z [Modules] Streaming discord_rpc@1 to /home/louues/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip: 100%
+2023-05-05T22:28:46.650Z [Modules] Finished module downloads. [success: 1] [failure: 0]
+2023-05-05T22:28:46.770Z [Modules] Installing discord_game_utils@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_game_utils-1.zip
+2023-05-05T22:28:47.230Z [Modules] Installing discord_rpc@1 from /home/louues/.config/discord/0.0.27/modules/pending/discord_rpc-1.zip
+2023-05-05T22:28:47.329Z [Modules] Finished module installations. [success: 3] [failure: 0]
+2023-05-05T23:28:45.661Z [Modules] Checking for host updates.
+2023-05-05T23:28:45.912Z [Modules] Host is up to date.
+2023-05-05T23:28:45.912Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-05T23:28:45.992Z [Modules] No module updates available.
+2023-05-06T00:28:45.661Z [Modules] Checking for host updates.
+2023-05-06T00:28:45.879Z [Modules] Host is up to date.
+2023-05-06T00:28:45.879Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T00:28:45.947Z [Modules] No module updates available.
+2023-05-06T01:28:45.661Z [Modules] Checking for host updates.
+2023-05-06T01:28:45.888Z [Modules] Host is up to date.
+2023-05-06T01:28:45.888Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T01:28:45.963Z [Modules] No module updates available.
+2023-05-06T23:02:35.942Z [Modules] Modules initializing
+2023-05-06T23:02:35.946Z [Modules] Distribution: remote
+2023-05-06T23:02:35.947Z [Modules] Host updates: enabled
+2023-05-06T23:02:35.947Z [Modules] Module updates: enabled
+2023-05-06T23:02:35.952Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-06T23:02:35.953Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-06T23:02:35.953Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-06T23:02:36.343Z [Modules] No updates to install
+2023-05-06T23:02:36.345Z [Modules] Checking for host updates.
+2023-05-06T23:02:36.708Z [Modules] Host is up to date.
+2023-05-06T23:02:36.709Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:02:36.795Z [Modules] No module updates available.
+2023-05-06T23:02:41.315Z [Modules] Checking for host updates.
+2023-05-06T23:02:41.532Z [Modules] Host is up to date.
+2023-05-06T23:02:41.532Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:02:41.534Z [Modules] No module updates available.
+2023-05-06T23:43:51.193Z [Modules] Modules initializing
+2023-05-06T23:43:51.196Z [Modules] Distribution: remote
+2023-05-06T23:43:51.196Z [Modules] Host updates: enabled
+2023-05-06T23:43:51.196Z [Modules] Module updates: enabled
+2023-05-06T23:43:51.197Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-06T23:43:51.197Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-06T23:43:51.197Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-06T23:43:51.625Z [Modules] No updates to install
+2023-05-06T23:43:51.625Z [Modules] Checking for host updates.
+2023-05-06T23:43:52.276Z [Modules] Host is up to date.
+2023-05-06T23:43:52.276Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:43:52.355Z [Modules] No module updates available.
+2023-05-06T23:43:57.570Z [Modules] Checking for host updates.
+2023-05-06T23:43:57.852Z [Modules] Host is up to date.
+2023-05-06T23:43:57.852Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:43:57.854Z [Modules] No module updates available.
+2023-05-06T23:51:38.935Z [Modules] Modules initializing
+2023-05-06T23:51:38.938Z [Modules] Distribution: remote
+2023-05-06T23:51:38.938Z [Modules] Host updates: enabled
+2023-05-06T23:51:38.938Z [Modules] Module updates: enabled
+2023-05-06T23:51:38.945Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-06T23:51:38.945Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-06T23:51:38.945Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-06T23:51:39.440Z [Modules] No updates to install
+2023-05-06T23:51:39.440Z [Modules] Checking for host updates.
+2023-05-06T23:51:39.957Z [Modules] Host is up to date.
+2023-05-06T23:51:39.957Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:51:40.029Z [Modules] No module updates available.
+2023-05-06T23:51:51.762Z [Modules] Checking for host updates.
+2023-05-06T23:51:51.971Z [Modules] Host is up to date.
+2023-05-06T23:51:51.971Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-06T23:51:51.975Z [Modules] No module updates available.
+2023-05-07T00:35:36.641Z [Modules] Modules initializing
+2023-05-07T00:35:36.645Z [Modules] Distribution: remote
+2023-05-07T00:35:36.645Z [Modules] Host updates: enabled
+2023-05-07T00:35:36.645Z [Modules] Module updates: enabled
+2023-05-07T00:35:36.650Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-07T00:35:36.651Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-07T00:35:36.651Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-07T00:35:37.051Z [Modules] No updates to install
+2023-05-07T00:35:37.052Z [Modules] Checking for host updates.
+2023-05-07T00:35:37.552Z [Modules] Host is up to date.
+2023-05-07T00:35:37.553Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-07T00:35:37.620Z [Modules] No module updates available.
+2023-05-07T00:35:43.040Z [Modules] Checking for host updates.
+2023-05-07T00:35:43.268Z [Modules] Host is up to date.
+2023-05-07T00:35:43.268Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-07T00:35:43.271Z [Modules] No module updates available.
+2023-05-07T01:35:43.042Z [Modules] Checking for host updates.
+2023-05-07T01:35:43.332Z [Modules] Host is up to date.
+2023-05-07T01:35:43.332Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-07T01:35:43.400Z [Modules] No module updates available.
+2023-05-11T20:32:23.356Z [Modules] Modules initializing
+2023-05-11T20:32:23.359Z [Modules] Distribution: remote
+2023-05-11T20:32:23.359Z [Modules] Host updates: enabled
+2023-05-11T20:32:23.360Z [Modules] Module updates: enabled
+2023-05-11T20:32:23.373Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-11T20:32:23.373Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-11T20:32:23.373Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-11T20:32:23.779Z [Modules] No updates to install
+2023-05-11T20:32:23.780Z [Modules] Checking for host updates.
+2023-05-11T20:32:24.296Z [Modules] Host is up to date.
+2023-05-11T20:32:24.297Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-11T20:32:24.435Z [Modules] No module updates available.
+2023-05-11T20:32:29.695Z [Modules] Checking for host updates.
+2023-05-11T20:32:29.925Z [Modules] Host is up to date.
+2023-05-11T20:32:29.925Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-11T20:32:29.943Z [Modules] No module updates available.
+2023-05-11T21:32:29.699Z [Modules] Checking for host updates.
+2023-05-11T21:32:29.928Z [Modules] Host is up to date.
+2023-05-11T21:32:29.928Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-11T21:32:30.010Z [Modules] No module updates available.
+2023-05-11T22:32:29.696Z [Modules] Checking for host updates.
+2023-05-11T22:32:30.095Z [Modules] Host is up to date.
+2023-05-11T22:32:30.096Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-11T22:32:30.169Z [Modules] No module updates available.
+2023-05-11T23:32:29.701Z [Modules] Checking for host updates.
+2023-05-11T23:32:29.929Z [Modules] Host is up to date.
+2023-05-11T23:32:29.930Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-11T23:32:30.002Z [Modules] No module updates available.
+2023-05-12T00:32:29.702Z [Modules] Checking for host updates.
+2023-05-12T00:32:29.955Z [Modules] Host is up to date.
+2023-05-12T00:32:29.955Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-12T00:32:30.031Z [Modules] No module updates available.
+2023-05-12T01:32:29.701Z [Modules] Checking for host updates.
+2023-05-12T01:32:29.926Z [Modules] Host is up to date.
+2023-05-12T01:32:29.926Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-12T01:32:30.001Z [Modules] No module updates available.
+2023-05-12T23:47:53.179Z [Modules] Modules initializing
+2023-05-12T23:47:53.186Z [Modules] Distribution: remote
+2023-05-12T23:47:53.187Z [Modules] Host updates: enabled
+2023-05-12T23:47:53.187Z [Modules] Module updates: enabled
+2023-05-12T23:47:53.187Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-12T23:47:53.187Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-12T23:47:53.188Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-12T23:47:53.612Z [Modules] No updates to install
+2023-05-12T23:47:53.612Z [Modules] Checking for host updates.
+2023-05-12T23:47:54.249Z [Modules] Host is up to date.
+2023-05-12T23:47:54.251Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-12T23:47:54.326Z [Modules] No module updates available.
+2023-05-12T23:48:00.221Z [Modules] Checking for host updates.
+2023-05-12T23:48:00.469Z [Modules] Host is up to date.
+2023-05-12T23:48:00.469Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-12T23:48:00.472Z [Modules] No module updates available.
+2023-05-13T00:48:00.230Z [Modules] Checking for host updates.
+2023-05-13T00:48:00.488Z [Modules] Host is up to date.
+2023-05-13T00:48:00.489Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T00:48:00.562Z [Modules] No module updates available.
+2023-05-13T01:48:00.223Z [Modules] Checking for host updates.
+2023-05-13T01:48:00.456Z [Modules] Host is up to date.
+2023-05-13T01:48:00.456Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T01:48:00.524Z [Modules] No module updates available.
+2023-05-13T02:48:00.224Z [Modules] Checking for host updates.
+2023-05-13T02:48:00.458Z [Modules] Host is up to date.
+2023-05-13T02:48:00.459Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T02:48:00.534Z [Modules] No module updates available.
+2023-05-13T03:48:00.225Z [Modules] Checking for host updates.
+2023-05-13T03:48:00.446Z [Modules] Host is up to date.
+2023-05-13T03:48:00.446Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T03:48:00.510Z [Modules] No module updates available.
+2023-05-13T18:43:03.158Z [Modules] Modules initializing
+2023-05-13T18:43:03.162Z [Modules] Distribution: remote
+2023-05-13T18:43:03.162Z [Modules] Host updates: enabled
+2023-05-13T18:43:03.162Z [Modules] Module updates: enabled
+2023-05-13T18:43:03.173Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-13T18:43:03.174Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-13T18:43:03.174Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-13T18:43:03.501Z [Modules] No updates to install
+2023-05-13T18:43:03.501Z [Modules] Checking for host updates.
+2023-05-13T18:43:04.107Z [Modules] Host is up to date.
+2023-05-13T18:43:04.108Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T18:43:04.186Z [Modules] No module updates available.
+2023-05-13T18:43:09.360Z [Modules] Checking for host updates.
+2023-05-13T18:43:09.606Z [Modules] Host is up to date.
+2023-05-13T18:43:09.607Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T18:43:09.609Z [Modules] No module updates available.
+2023-05-13T19:43:09.362Z [Modules] Checking for host updates.
+2023-05-13T19:43:09.597Z [Modules] Host is up to date.
+2023-05-13T19:43:09.597Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T19:43:09.663Z [Modules] No module updates available.
+2023-05-13T20:43:09.360Z [Modules] Checking for host updates.
+2023-05-13T20:43:09.674Z [Modules] Host is up to date.
+2023-05-13T20:43:09.674Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T20:43:09.829Z [Modules] No module updates available.
+2023-05-13T21:43:09.361Z [Modules] Checking for host updates.
+2023-05-13T21:43:09.677Z [Modules] Host is up to date.
+2023-05-13T21:43:09.678Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T21:43:09.843Z [Modules] No module updates available.
+2023-05-13T22:43:09.361Z [Modules] Checking for host updates.
+2023-05-13T22:43:09.704Z [Modules] Host is up to date.
+2023-05-13T22:43:09.704Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T22:43:09.872Z [Modules] No module updates available.
+2023-05-13T23:43:09.360Z [Modules] Checking for host updates.
+2023-05-13T23:43:09.585Z [Modules] Host is up to date.
+2023-05-13T23:43:09.585Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-13T23:43:09.665Z [Modules] No module updates available.
+2023-05-14T00:43:09.367Z [Modules] Checking for host updates.
+2023-05-14T00:43:09.685Z [Modules] Host is up to date.
+2023-05-14T00:43:09.685Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T00:43:09.856Z [Modules] No module updates available.
+2023-05-14T01:43:09.361Z [Modules] Checking for host updates.
+2023-05-14T01:43:09.677Z [Modules] Host is up to date.
+2023-05-14T01:43:09.677Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T01:43:09.840Z [Modules] No module updates available.
+2023-05-14T02:43:09.360Z [Modules] Checking for host updates.
+2023-05-14T02:43:09.678Z [Modules] Host is up to date.
+2023-05-14T02:43:09.678Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T02:43:09.837Z [Modules] No module updates available.
+2023-05-14T03:43:09.360Z [Modules] Checking for host updates.
+2023-05-14T03:43:09.567Z [Modules] Host is up to date.
+2023-05-14T03:43:09.567Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T03:43:09.621Z [Modules] No module updates available.
+2023-05-14T04:43:09.367Z [Modules] Checking for host updates.
+2023-05-14T04:43:09.651Z [Modules] Host is up to date.
+2023-05-14T04:43:09.651Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T04:43:09.716Z [Modules] No module updates available.
+2023-05-14T05:43:09.367Z [Modules] Checking for host updates.
+2023-05-14T05:43:09.665Z [Modules] Host is up to date.
+2023-05-14T05:43:09.665Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-14T05:43:09.732Z [Modules] No module updates available.
+2023-05-15T19:48:58.953Z [Modules] Modules initializing
+2023-05-15T19:48:58.956Z [Modules] Distribution: remote
+2023-05-15T19:48:58.956Z [Modules] Host updates: enabled
+2023-05-15T19:48:58.957Z [Modules] Module updates: enabled
+2023-05-15T19:48:58.967Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-15T19:48:58.968Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-15T19:48:58.968Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-15T19:48:59.330Z [Modules] No updates to install
+2023-05-15T19:48:59.331Z [Modules] Checking for host updates.
+2023-05-15T19:48:59.783Z [Modules] Host is up to date.
+2023-05-15T19:48:59.785Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T19:48:59.883Z [Modules] No module updates available.
+2023-05-15T19:49:04.739Z [Modules] Checking for host updates.
+2023-05-15T19:49:04.924Z [Modules] Host is up to date.
+2023-05-15T19:49:04.924Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T19:49:04.927Z [Modules] No module updates available.
+2023-05-15T20:49:04.747Z [Modules] Checking for host updates.
+2023-05-15T20:49:04.964Z [Modules] Host is up to date.
+2023-05-15T20:49:04.964Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T20:49:05.025Z [Modules] No module updates available.
+2023-05-15T21:49:04.742Z [Modules] Checking for host updates.
+2023-05-15T21:49:04.989Z [Modules] Host is up to date.
+2023-05-15T21:49:04.990Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T21:49:05.066Z [Modules] No module updates available.
+2023-05-15T22:49:04.744Z [Modules] Checking for host updates.
+2023-05-15T22:49:04.979Z [Modules] Host is up to date.
+2023-05-15T22:49:04.979Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T22:49:05.081Z [Modules] No module updates available.
+2023-05-15T23:49:04.746Z [Modules] Checking for host updates.
+2023-05-15T23:49:04.987Z [Modules] Host is up to date.
+2023-05-15T23:49:04.987Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-15T23:49:05.069Z [Modules] No module updates available.
+2023-05-16T00:49:04.742Z [Modules] Checking for host updates.
+2023-05-16T00:49:05.020Z [Modules] Host is up to date.
+2023-05-16T00:49:05.021Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T00:49:05.094Z [Modules] No module updates available.
+2023-05-16T01:49:04.743Z [Modules] Checking for host updates.
+2023-05-16T01:49:04.986Z [Modules] Host is up to date.
+2023-05-16T01:49:04.986Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T01:49:05.059Z [Modules] No module updates available.
+2023-05-16T02:49:04.744Z [Modules] Checking for host updates.
+2023-05-16T02:49:04.960Z [Modules] Host is up to date.
+2023-05-16T02:49:04.960Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T02:49:05.030Z [Modules] No module updates available.
+2023-05-16T19:46:56.514Z [Modules] Modules initializing
+2023-05-16T19:46:56.517Z [Modules] Distribution: remote
+2023-05-16T19:46:56.517Z [Modules] Host updates: enabled
+2023-05-16T19:46:56.517Z [Modules] Module updates: enabled
+2023-05-16T19:46:56.518Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-16T19:46:56.518Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-16T19:46:56.518Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-16T19:46:56.896Z [Modules] No updates to install
+2023-05-16T19:46:56.897Z [Modules] Checking for host updates.
+2023-05-16T19:46:57.253Z [Modules] Host is up to date.
+2023-05-16T19:46:57.254Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T19:46:57.343Z [Modules] No module updates available.
+2023-05-16T19:47:01.848Z [Modules] Checking for host updates.
+2023-05-16T19:47:02.093Z [Modules] Host is up to date.
+2023-05-16T19:47:02.094Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T19:47:02.096Z [Modules] No module updates available.
+2023-05-16T20:47:01.854Z [Modules] Checking for host updates.
+2023-05-16T20:47:02.075Z [Modules] Host is up to date.
+2023-05-16T20:47:02.075Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T20:47:02.151Z [Modules] No module updates available.
+2023-05-16T21:47:01.854Z [Modules] Checking for host updates.
+2023-05-16T21:47:02.089Z [Modules] Host is up to date.
+2023-05-16T21:47:02.089Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T21:47:02.162Z [Modules] No module updates available.
+2023-05-16T22:47:01.854Z [Modules] Checking for host updates.
+2023-05-16T22:47:02.099Z [Modules] Host is up to date.
+2023-05-16T22:47:02.100Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T22:47:02.173Z [Modules] No module updates available.
+2023-05-16T23:47:01.849Z [Modules] Checking for host updates.
+2023-05-16T23:47:02.098Z [Modules] Host is up to date.
+2023-05-16T23:47:02.099Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-16T23:47:02.179Z [Modules] No module updates available.
+2023-05-17T00:47:01.855Z [Modules] Checking for host updates.
+2023-05-17T00:47:02.098Z [Modules] Host is up to date.
+2023-05-17T00:47:02.099Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-17T00:47:02.181Z [Modules] No module updates available.
+2023-05-17T01:47:01.849Z [Modules] Checking for host updates.
+2023-05-17T01:47:02.095Z [Modules] Host is up to date.
+2023-05-17T01:47:02.096Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-17T01:47:02.177Z [Modules] No module updates available.
+2023-05-20T18:53:36.765Z [Modules] Modules initializing
+2023-05-20T18:53:36.768Z [Modules] Distribution: remote
+2023-05-20T18:53:36.768Z [Modules] Host updates: enabled
+2023-05-20T18:53:36.768Z [Modules] Module updates: enabled
+2023-05-20T18:53:36.784Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-20T18:53:36.784Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-20T18:53:36.784Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-20T18:53:37.169Z [Modules] No updates to install
+2023-05-20T18:53:37.169Z [Modules] Checking for host updates.
+2023-05-20T18:53:37.701Z [Modules] Host is up to date.
+2023-05-20T18:53:37.705Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T18:53:37.845Z [Modules] No module updates available.
+2023-05-20T18:53:46.471Z [Modules] Checking for host updates.
+2023-05-20T18:53:46.671Z [Modules] Host is up to date.
+2023-05-20T18:53:46.671Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T18:53:46.674Z [Modules] No module updates available.
+2023-05-20T19:53:46.478Z [Modules] Checking for host updates.
+2023-05-20T19:53:46.743Z [Modules] Host is up to date.
+2023-05-20T19:53:46.743Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T19:53:46.814Z [Modules] No module updates available.
+2023-05-20T20:53:46.471Z [Modules] Checking for host updates.
+2023-05-20T20:53:46.682Z [Modules] Host is up to date.
+2023-05-20T20:53:46.683Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T20:53:46.754Z [Modules] No module updates available.
+2023-05-20T21:53:46.472Z [Modules] Checking for host updates.
+2023-05-20T21:53:46.773Z [Modules] Host is up to date.
+2023-05-20T21:53:46.773Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T21:53:46.852Z [Modules] No module updates available.
+2023-05-20T22:53:46.471Z [Modules] Checking for host updates.
+2023-05-20T22:53:46.705Z [Modules] Host is up to date.
+2023-05-20T22:53:46.705Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-20T22:53:46.773Z [Modules] No module updates available.
+2023-05-23T20:19:19.377Z [Modules] Modules initializing
+2023-05-23T20:19:19.379Z [Modules] Distribution: remote
+2023-05-23T20:19:19.379Z [Modules] Host updates: enabled
+2023-05-23T20:19:19.379Z [Modules] Module updates: enabled
+2023-05-23T20:19:19.396Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-23T20:19:19.396Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-23T20:19:19.396Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-23T20:19:19.760Z [Modules] No updates to install
+2023-05-23T20:19:19.761Z [Modules] Checking for host updates.
+2023-05-23T20:19:20.191Z [Modules] Host is up to date.
+2023-05-23T20:19:20.192Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-23T20:19:20.341Z [Modules] No module updates available.
+2023-05-23T20:19:26.119Z [Modules] Checking for host updates.
+2023-05-23T20:19:26.346Z [Modules] Host is up to date.
+2023-05-23T20:19:26.347Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-23T20:19:26.349Z [Modules] No module updates available.
+2023-05-23T21:19:26.126Z [Modules] Checking for host updates.
+2023-05-23T21:19:26.385Z [Modules] Host is up to date.
+2023-05-23T21:19:26.386Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-23T21:19:26.467Z [Modules] No module updates available.
+2023-05-23T22:19:26.122Z [Modules] Checking for host updates.
+2023-05-23T22:19:26.346Z [Modules] Host is up to date.
+2023-05-23T22:19:26.346Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-23T22:19:26.412Z [Modules] No module updates available.
+2023-05-23T23:19:26.120Z [Modules] Checking for host updates.
+2023-05-23T23:19:26.352Z [Modules] Host is up to date.
+2023-05-23T23:19:26.352Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-23T23:19:26.434Z [Modules] No module updates available.
+2023-05-24T00:19:26.119Z [Modules] Checking for host updates.
+2023-05-24T00:19:26.380Z [Modules] Host is up to date.
+2023-05-24T00:19:26.380Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-24T00:19:26.452Z [Modules] No module updates available.
+2023-05-24T01:19:26.120Z [Modules] Checking for host updates.
+2023-05-24T01:19:26.357Z [Modules] Host is up to date.
+2023-05-24T01:19:26.358Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-24T01:19:26.434Z [Modules] No module updates available.
+2023-05-24T20:48:22.258Z [Modules] Modules initializing
+2023-05-24T20:48:22.263Z [Modules] Distribution: remote
+2023-05-24T20:48:22.263Z [Modules] Host updates: enabled
+2023-05-24T20:48:22.263Z [Modules] Module updates: enabled
+2023-05-24T20:48:22.289Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-24T20:48:22.289Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-24T20:48:22.290Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-24T20:48:22.695Z [Modules] No updates to install
+2023-05-24T20:48:22.696Z [Modules] Checking for host updates.
+2023-05-24T20:48:23.232Z [Modules] Host is up to date.
+2023-05-24T20:48:23.233Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-24T20:48:23.318Z [Modules] No module updates available.
+2023-05-24T20:48:29.816Z [Modules] Checking for host updates.
+2023-05-24T20:48:30.027Z [Modules] Host is up to date.
+2023-05-24T20:48:30.027Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-24T20:48:30.029Z [Modules] No module updates available.
+2023-05-24T21:48:29.824Z [Modules] Checking for host updates.
+2023-05-24T21:48:30.052Z [Modules] Host is up to date.
+2023-05-24T21:48:30.054Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-24T21:48:30.134Z [Modules] No module updates available.
+2023-05-25T00:00:57.328Z [Modules] Modules initializing
+2023-05-25T00:00:57.331Z [Modules] Distribution: remote
+2023-05-25T00:00:57.331Z [Modules] Host updates: enabled
+2023-05-25T00:00:57.331Z [Modules] Module updates: enabled
+2023-05-25T00:00:57.337Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-25T00:00:57.337Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-25T00:00:57.337Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-25T00:00:57.701Z [Modules] No updates to install
+2023-05-25T00:00:57.702Z [Modules] Checking for host updates.
+2023-05-25T00:00:58.107Z [Modules] Host is up to date.
+2023-05-25T00:00:58.108Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T00:00:58.195Z [Modules] No module updates available.
+2023-05-25T00:01:03.269Z [Modules] Checking for host updates.
+2023-05-25T00:01:03.482Z [Modules] Host is up to date.
+2023-05-25T00:01:03.482Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T00:01:03.484Z [Modules] No module updates available.
+2023-05-25T01:01:03.271Z [Modules] Checking for host updates.
+2023-05-25T01:01:03.510Z [Modules] Host is up to date.
+2023-05-25T01:01:03.511Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T01:01:03.607Z [Modules] No module updates available.
+2023-05-25T21:41:43.684Z [Modules] Modules initializing
+2023-05-25T21:41:43.687Z [Modules] Distribution: remote
+2023-05-25T21:41:43.688Z [Modules] Host updates: enabled
+2023-05-25T21:41:43.688Z [Modules] Module updates: enabled
+2023-05-25T21:41:43.695Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-25T21:41:43.696Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-25T21:41:43.696Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-25T21:41:44.076Z [Modules] No updates to install
+2023-05-25T21:41:44.077Z [Modules] Checking for host updates.
+2023-05-25T21:41:44.527Z [Modules] Host is up to date.
+2023-05-25T21:41:44.528Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T21:41:44.602Z [Modules] No module updates available.
+2023-05-25T21:41:48.816Z [Modules] Checking for host updates.
+2023-05-25T21:41:49.036Z [Modules] Host is up to date.
+2023-05-25T21:41:49.036Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T21:41:49.045Z [Modules] No module updates available.
+2023-05-25T22:41:48.821Z [Modules] Checking for host updates.
+2023-05-25T22:41:49.078Z [Modules] Host is up to date.
+2023-05-25T22:41:49.078Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T22:41:49.158Z [Modules] No module updates available.
+2023-05-25T23:41:48.818Z [Modules] Checking for host updates.
+2023-05-25T23:41:49.176Z [Modules] Host is up to date.
+2023-05-25T23:41:49.177Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-25T23:41:49.252Z [Modules] No module updates available.
+2023-05-26T00:41:48.820Z [Modules] Checking for host updates.
+2023-05-26T00:41:49.079Z [Modules] Host is up to date.
+2023-05-26T00:41:49.079Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-26T00:41:49.158Z [Modules] No module updates available.
+2023-05-26T21:53:24.287Z [Modules] Modules initializing
+2023-05-26T21:53:24.291Z [Modules] Distribution: remote
+2023-05-26T21:53:24.291Z [Modules] Host updates: enabled
+2023-05-26T21:53:24.291Z [Modules] Module updates: enabled
+2023-05-26T21:53:24.297Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-26T21:53:24.297Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-26T21:53:24.298Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-26T21:53:24.665Z [Modules] No updates to install
+2023-05-26T21:53:24.666Z [Modules] Checking for host updates.
+2023-05-26T21:53:25.110Z [Modules] Host is up to date.
+2023-05-26T21:53:25.111Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-26T21:53:25.185Z [Modules] No module updates available.
+2023-05-26T21:53:30.152Z [Modules] Checking for host updates.
+2023-05-26T21:53:30.382Z [Modules] Host is up to date.
+2023-05-26T21:53:30.382Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-26T21:53:30.384Z [Modules] No module updates available.
+2023-05-26T22:53:30.157Z [Modules] Checking for host updates.
+2023-05-26T22:53:30.382Z [Modules] Host is up to date.
+2023-05-26T22:53:30.382Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-26T22:53:30.449Z [Modules] No module updates available.
+2023-05-29T23:36:33.992Z [Modules] Modules initializing
+2023-05-29T23:36:33.996Z [Modules] Distribution: remote
+2023-05-29T23:36:33.996Z [Modules] Host updates: enabled
+2023-05-29T23:36:33.996Z [Modules] Module updates: enabled
+2023-05-29T23:36:34.007Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-29T23:36:34.007Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-29T23:36:34.008Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-29T23:36:34.368Z [Modules] No updates to install
+2023-05-29T23:36:34.369Z [Modules] Checking for host updates.
+2023-05-29T23:36:35.238Z [Modules] Host is up to date.
+2023-05-29T23:36:35.240Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T23:36:35.590Z [Modules] No module updates available.
+2023-05-29T23:36:40.556Z [Modules] Checking for host updates.
+2023-05-29T23:36:40.944Z [Modules] Host is up to date.
+2023-05-29T23:36:40.945Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-29T23:36:40.948Z [Modules] No module updates available.
+2023-05-30T00:36:40.562Z [Modules] Checking for host updates.
+2023-05-30T00:36:40.886Z [Modules] Host is up to date.
+2023-05-30T00:36:40.886Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T00:36:41.058Z [Modules] No module updates available.
+2023-05-30T01:36:40.557Z [Modules] Checking for host updates.
+2023-05-30T01:36:40.875Z [Modules] Host is up to date.
+2023-05-30T01:36:40.875Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T01:36:41.050Z [Modules] No module updates available.
+2023-05-30T02:36:40.557Z [Modules] Checking for host updates.
+2023-05-30T02:36:40.874Z [Modules] Host is up to date.
+2023-05-30T02:36:40.875Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T02:36:41.038Z [Modules] No module updates available.
+2023-05-30T22:57:14.362Z [Modules] Modules initializing
+2023-05-30T22:57:14.365Z [Modules] Distribution: remote
+2023-05-30T22:57:14.365Z [Modules] Host updates: enabled
+2023-05-30T22:57:14.365Z [Modules] Module updates: enabled
+2023-05-30T22:57:14.374Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-30T22:57:14.374Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-30T22:57:14.374Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-30T22:57:14.704Z [Modules] No updates to install
+2023-05-30T22:57:14.705Z [Modules] Checking for host updates.
+2023-05-30T22:57:15.357Z [Modules] Host is up to date.
+2023-05-30T22:57:15.358Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T22:57:15.850Z [Modules] No module updates available.
+2023-05-30T22:57:22.611Z [Modules] Checking for host updates.
+2023-05-30T22:57:22.920Z [Modules] Host is up to date.
+2023-05-30T22:57:22.920Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T22:57:22.923Z [Modules] No module updates available.
+2023-05-30T23:57:22.619Z [Modules] Checking for host updates.
+2023-05-30T23:57:22.965Z [Modules] Host is up to date.
+2023-05-30T23:57:22.966Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-30T23:57:23.142Z [Modules] No module updates available.
+2023-05-31T00:57:22.619Z [Modules] Checking for host updates.
+2023-05-31T00:57:22.943Z [Modules] Host is up to date.
+2023-05-31T00:57:22.944Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T00:57:23.126Z [Modules] No module updates available.
+2023-05-31T01:57:22.612Z [Modules] Checking for host updates.
+2023-05-31T01:57:22.947Z [Modules] Host is up to date.
+2023-05-31T01:57:22.947Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T01:57:23.132Z [Modules] No module updates available.
+2023-05-31T19:02:01.822Z [Modules] Modules initializing
+2023-05-31T19:02:01.826Z [Modules] Distribution: remote
+2023-05-31T19:02:01.826Z [Modules] Host updates: enabled
+2023-05-31T19:02:01.826Z [Modules] Module updates: enabled
+2023-05-31T19:02:01.833Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-05-31T19:02:01.833Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-05-31T19:02:01.833Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-05-31T19:02:02.190Z [Modules] No updates to install
+2023-05-31T19:02:02.191Z [Modules] Checking for host updates.
+2023-05-31T19:02:03.087Z [Modules] Host is up to date.
+2023-05-31T19:02:03.088Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T19:02:03.275Z [Modules] No module updates available.
+2023-05-31T19:02:17.359Z [Modules] Checking for host updates.
+2023-05-31T19:02:17.688Z [Modules] Host is up to date.
+2023-05-31T19:02:17.688Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T19:02:17.690Z [Modules] No module updates available.
+2023-05-31T20:02:17.363Z [Modules] Checking for host updates.
+2023-05-31T20:02:17.726Z [Modules] Host is up to date.
+2023-05-31T20:02:17.726Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T20:02:17.917Z [Modules] No module updates available.
+2023-05-31T21:02:17.368Z [Modules] Checking for host updates.
+2023-05-31T21:02:17.697Z [Modules] Host is up to date.
+2023-05-31T21:02:17.697Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T21:02:17.882Z [Modules] No module updates available.
+2023-05-31T22:02:17.365Z [Modules] Checking for host updates.
+2023-05-31T22:02:17.735Z [Modules] Host is up to date.
+2023-05-31T22:02:17.736Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T22:02:17.912Z [Modules] No module updates available.
+2023-05-31T23:02:17.368Z [Modules] Checking for host updates.
+2023-05-31T23:02:17.698Z [Modules] Host is up to date.
+2023-05-31T23:02:17.698Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-05-31T23:02:17.882Z [Modules] No module updates available.
+2023-06-01T00:02:17.365Z [Modules] Checking for host updates.
+2023-06-01T00:02:17.753Z [Modules] Host is up to date.
+2023-06-01T00:02:17.754Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T00:02:17.933Z [Modules] No module updates available.
+2023-06-01T01:02:17.368Z [Modules] Checking for host updates.
+2023-06-01T01:02:17.753Z [Modules] Host is up to date.
+2023-06-01T01:02:17.753Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T01:02:17.928Z [Modules] No module updates available.
+2023-06-01T21:41:48.555Z [Modules] Modules initializing
+2023-06-01T21:41:48.558Z [Modules] Distribution: remote
+2023-06-01T21:41:48.558Z [Modules] Host updates: enabled
+2023-06-01T21:41:48.558Z [Modules] Module updates: enabled
+2023-06-01T21:41:48.572Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-01T21:41:48.572Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-01T21:41:48.572Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-01T21:41:48.929Z [Modules] No updates to install
+2023-06-01T21:41:48.930Z [Modules] Checking for host updates.
+2023-06-01T21:41:49.754Z [Modules] Host is up to date.
+2023-06-01T21:41:49.755Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T21:41:49.932Z [Modules] No module updates available.
+2023-06-01T21:42:00.739Z [Modules] Checking for host updates.
+2023-06-01T21:42:01.051Z [Modules] Host is up to date.
+2023-06-01T21:42:01.051Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-01T21:42:01.076Z [Modules] No module updates available.
+2023-06-02T00:14:21.402Z [Modules] Modules initializing
+2023-06-02T00:14:21.405Z [Modules] Distribution: remote
+2023-06-02T00:14:21.405Z [Modules] Host updates: enabled
+2023-06-02T00:14:21.405Z [Modules] Module updates: enabled
+2023-06-02T00:14:21.419Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-02T00:14:21.419Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-02T00:14:21.419Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-02T00:14:21.820Z [Modules] No updates to install
+2023-06-02T00:14:21.821Z [Modules] Checking for host updates.
+2023-06-02T00:14:22.445Z [Modules] Host is up to date.
+2023-06-02T00:14:22.445Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T00:14:22.619Z [Modules] No module updates available.
+2023-06-02T00:14:28.093Z [Modules] Checking for host updates.
+2023-06-02T00:14:28.449Z [Modules] Host is up to date.
+2023-06-02T00:14:28.449Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T00:14:28.452Z [Modules] No module updates available.
+2023-06-02T01:14:28.102Z [Modules] Checking for host updates.
+2023-06-02T01:14:28.458Z [Modules] Host is up to date.
+2023-06-02T01:14:28.459Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T01:14:28.655Z [Modules] No module updates available.
+2023-06-02T02:14:28.094Z [Modules] Checking for host updates.
+2023-06-02T02:14:28.422Z [Modules] Host is up to date.
+2023-06-02T02:14:28.422Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T02:14:28.588Z [Modules] No module updates available.
+2023-06-02T19:58:52.017Z [Modules] Modules initializing
+2023-06-02T19:58:52.019Z [Modules] Distribution: remote
+2023-06-02T19:58:52.019Z [Modules] Host updates: enabled
+2023-06-02T19:58:52.019Z [Modules] Module updates: enabled
+2023-06-02T19:58:52.081Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-02T19:58:52.081Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-02T19:58:52.081Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-02T19:58:52.550Z [Modules] No updates to install
+2023-06-02T19:58:52.551Z [Modules] Checking for host updates.
+2023-06-02T19:58:53.537Z [Modules] Host is up to date.
+2023-06-02T19:58:53.539Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T19:58:53.711Z [Modules] No module updates available.
+2023-06-02T19:59:28.546Z [Modules] Checking for host updates.
+2023-06-02T19:59:28.875Z [Modules] Host is up to date.
+2023-06-02T19:59:28.875Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T19:59:28.877Z [Modules] No module updates available.
+2023-06-02T20:59:28.549Z [Modules] Checking for host updates.
+2023-06-02T20:59:28.869Z [Modules] Host is up to date.
+2023-06-02T20:59:28.869Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T20:59:29.033Z [Modules] No module updates available.
+2023-06-02T21:59:28.546Z [Modules] Checking for host updates.
+2023-06-02T21:59:28.889Z [Modules] Host is up to date.
+2023-06-02T21:59:28.890Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T21:59:29.076Z [Modules] No module updates available.
+2023-06-02T22:59:28.548Z [Modules] Checking for host updates.
+2023-06-02T22:59:28.893Z [Modules] Host is up to date.
+2023-06-02T22:59:28.894Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T22:59:29.071Z [Modules] No module updates available.
+2023-06-02T23:59:28.549Z [Modules] Checking for host updates.
+2023-06-02T23:59:28.862Z [Modules] Host is up to date.
+2023-06-02T23:59:28.862Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-02T23:59:29.019Z [Modules] No module updates available.
+2023-06-03T00:59:28.548Z [Modules] Checking for host updates.
+2023-06-03T00:59:28.863Z [Modules] Host is up to date.
+2023-06-03T00:59:28.863Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T00:59:29.035Z [Modules] No module updates available.
+2023-06-03T01:59:28.554Z [Modules] Checking for host updates.
+2023-06-03T01:59:28.885Z [Modules] Host is up to date.
+2023-06-03T01:59:28.886Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T01:59:29.051Z [Modules] No module updates available.
+2023-06-03T02:59:28.550Z [Modules] Checking for host updates.
+2023-06-03T02:59:28.875Z [Modules] Host is up to date.
+2023-06-03T02:59:28.875Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T02:59:29.043Z [Modules] No module updates available.
+2023-06-03T20:20:21.738Z [Modules] Modules initializing
+2023-06-03T20:20:21.742Z [Modules] Distribution: remote
+2023-06-03T20:20:21.742Z [Modules] Host updates: enabled
+2023-06-03T20:20:21.742Z [Modules] Module updates: enabled
+2023-06-03T20:20:21.753Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-03T20:20:21.753Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-03T20:20:21.753Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-03T20:20:22.163Z [Modules] No updates to install
+2023-06-03T20:20:22.164Z [Modules] Checking for host updates.
+2023-06-03T20:20:22.791Z [Modules] Host is up to date.
+2023-06-03T20:20:22.791Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T20:20:22.968Z [Modules] No module updates available.
+2023-06-03T20:20:29.364Z [Modules] Checking for host updates.
+2023-06-03T20:20:29.684Z [Modules] Host is up to date.
+2023-06-03T20:20:29.684Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T20:20:29.686Z [Modules] No module updates available.
+2023-06-03T21:20:29.371Z [Modules] Checking for host updates.
+2023-06-03T21:20:29.703Z [Modules] Host is up to date.
+2023-06-03T21:20:29.704Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T21:20:29.879Z [Modules] No module updates available.
+2023-06-03T22:20:29.365Z [Modules] Checking for host updates.
+2023-06-03T22:20:29.698Z [Modules] Host is up to date.
+2023-06-03T22:20:29.699Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-03T22:20:29.873Z [Modules] No module updates available.
+2023-06-04T16:40:31.087Z [Modules] Modules initializing
+2023-06-04T16:40:31.090Z [Modules] Distribution: remote
+2023-06-04T16:40:31.090Z [Modules] Host updates: enabled
+2023-06-04T16:40:31.090Z [Modules] Module updates: enabled
+2023-06-04T16:40:31.096Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-04T16:40:31.096Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-04T16:40:31.096Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-04T16:40:31.542Z [Modules] No updates to install
+2023-06-04T16:40:31.542Z [Modules] Checking for host updates.
+2023-06-04T16:40:32.210Z [Modules] Host is up to date.
+2023-06-04T16:40:32.211Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T16:40:32.387Z [Modules] No module updates available.
+2023-06-04T16:40:37.835Z [Modules] Checking for host updates.
+2023-06-04T16:40:38.141Z [Modules] Host is up to date.
+2023-06-04T16:40:38.141Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T16:40:38.143Z [Modules] No module updates available.
+2023-06-04T17:40:37.840Z [Modules] Checking for host updates.
+2023-06-04T17:40:38.174Z [Modules] Host is up to date.
+2023-06-04T17:40:38.174Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T17:40:38.348Z [Modules] No module updates available.
+2023-06-04T18:40:37.844Z [Modules] Checking for host updates.
+2023-06-04T18:40:38.203Z [Modules] Host is up to date.
+2023-06-04T18:40:38.204Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-04T18:40:38.383Z [Modules] No module updates available.
+2023-06-05T23:34:51.197Z [Modules] Modules initializing
+2023-06-05T23:34:51.201Z [Modules] Distribution: remote
+2023-06-05T23:34:51.201Z [Modules] Host updates: enabled
+2023-06-05T23:34:51.201Z [Modules] Module updates: enabled
+2023-06-05T23:34:51.209Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-05T23:34:51.209Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-05T23:34:51.209Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-05T23:34:51.554Z [Modules] No updates to install
+2023-06-05T23:34:51.556Z [Modules] Checking for host updates.
+2023-06-05T23:34:52.477Z [Modules] Host is up to date.
+2023-06-05T23:34:52.477Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-05T23:34:52.824Z [Modules] No module updates available.
+2023-06-05T23:34:57.861Z [Modules] Checking for host updates.
+2023-06-05T23:34:58.278Z [Modules] Host is up to date.
+2023-06-05T23:34:58.279Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-05T23:34:58.281Z [Modules] No module updates available.
+2023-06-06T00:34:57.869Z [Modules] Checking for host updates.
+2023-06-06T00:34:58.214Z [Modules] Host is up to date.
+2023-06-06T00:34:58.214Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T00:34:58.404Z [Modules] No module updates available.
+2023-06-06T01:34:57.869Z [Modules] Checking for host updates.
+2023-06-06T01:34:58.195Z [Modules] Host is up to date.
+2023-06-06T01:34:58.195Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T01:34:58.364Z [Modules] No module updates available.
+2023-06-06T02:34:57.862Z [Modules] Checking for host updates.
+2023-06-06T02:34:58.200Z [Modules] Host is up to date.
+2023-06-06T02:34:58.201Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T02:34:58.375Z [Modules] No module updates available.
+2023-06-06T20:14:31.001Z [Modules] Modules initializing
+2023-06-06T20:14:31.003Z [Modules] Distribution: remote
+2023-06-06T20:14:31.003Z [Modules] Host updates: enabled
+2023-06-06T20:14:31.003Z [Modules] Module updates: enabled
+2023-06-06T20:14:31.018Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-06T20:14:31.018Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-06T20:14:31.018Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-06T20:14:31.412Z [Modules] No updates to install
+2023-06-06T20:14:31.413Z [Modules] Checking for host updates.
+2023-06-06T20:14:32.493Z [Modules] Host is up to date.
+2023-06-06T20:14:32.494Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T20:14:32.661Z [Modules] No module updates available.
+2023-06-06T20:14:41.889Z [Modules] Checking for host updates.
+2023-06-06T20:14:42.206Z [Modules] Host is up to date.
+2023-06-06T20:14:42.206Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T20:14:42.208Z [Modules] No module updates available.
+2023-06-06T21:14:41.896Z [Modules] Checking for host updates.
+2023-06-06T21:14:42.233Z [Modules] Host is up to date.
+2023-06-06T21:14:42.233Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T21:14:42.405Z [Modules] No module updates available.
+2023-06-06T22:14:41.890Z [Modules] Checking for host updates.
+2023-06-06T22:14:42.215Z [Modules] Host is up to date.
+2023-06-06T22:14:42.215Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T22:14:42.388Z [Modules] No module updates available.
+2023-06-06T23:14:41.890Z [Modules] Checking for host updates.
+2023-06-06T23:14:42.250Z [Modules] Host is up to date.
+2023-06-06T23:14:42.251Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-06T23:14:42.440Z [Modules] No module updates available.
+2023-06-07T00:14:41.890Z [Modules] Checking for host updates.
+2023-06-07T00:14:42.209Z [Modules] Host is up to date.
+2023-06-07T00:14:42.209Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T00:14:42.369Z [Modules] No module updates available.
+2023-06-07T01:14:41.890Z [Modules] Checking for host updates.
+2023-06-07T01:14:42.220Z [Modules] Host is up to date.
+2023-06-07T01:14:42.221Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T01:14:42.383Z [Modules] No module updates available.
+2023-06-07T02:14:41.890Z [Modules] Checking for host updates.
+2023-06-07T02:14:42.211Z [Modules] Host is up to date.
+2023-06-07T02:14:42.211Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T02:14:42.382Z [Modules] No module updates available.
+2023-06-07T03:14:41.890Z [Modules] Checking for host updates.
+2023-06-07T03:14:42.227Z [Modules] Host is up to date.
+2023-06-07T03:14:42.227Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T03:14:42.398Z [Modules] No module updates available.
+2023-06-07T04:14:41.890Z [Modules] Checking for host updates.
+2023-06-07T04:14:42.222Z [Modules] Host is up to date.
+2023-06-07T04:14:42.222Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T04:14:42.391Z [Modules] No module updates available.
+2023-06-07T19:28:35.262Z [Modules] Modules initializing
+2023-06-07T19:28:35.272Z [Modules] Distribution: remote
+2023-06-07T19:28:35.272Z [Modules] Host updates: enabled
+2023-06-07T19:28:35.272Z [Modules] Module updates: enabled
+2023-06-07T19:28:35.273Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-07T19:28:35.273Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-07T19:28:35.273Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-07T19:28:35.858Z [Modules] No updates to install
+2023-06-07T19:28:35.859Z [Modules] Checking for host updates.
+2023-06-07T19:28:37.122Z [Modules] Host is up to date.
+2023-06-07T19:28:37.123Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T19:28:37.193Z [Modules] No module updates available.
+2023-06-07T19:28:49.235Z [Modules] Checking for host updates.
+2023-06-07T19:28:49.454Z [Modules] Host is up to date.
+2023-06-07T19:28:49.454Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-07T19:28:49.456Z [Modules] No module updates available.
+2023-06-08T17:42:50.955Z [Modules] Modules initializing
+2023-06-08T17:42:50.958Z [Modules] Distribution: remote
+2023-06-08T17:42:50.958Z [Modules] Host updates: enabled
+2023-06-08T17:42:50.958Z [Modules] Module updates: enabled
+2023-06-08T17:42:50.959Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-08T17:42:50.960Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-08T17:42:50.960Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-08T17:42:51.467Z [Modules] No updates to install
+2023-06-08T17:42:51.468Z [Modules] Checking for host updates.
+2023-06-08T17:42:52.265Z [Modules] Host is up to date.
+2023-06-08T17:42:52.266Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-08T17:42:52.336Z [Modules] No module updates available.
+2023-06-08T17:43:01.000Z [Modules] Checking for host updates.
+2023-06-08T17:43:01.211Z [Modules] Host is up to date.
+2023-06-08T17:43:01.211Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-08T17:43:01.213Z [Modules] No module updates available.
+2023-06-08T18:43:01.009Z [Modules] Checking for host updates.
+2023-06-08T18:43:01.233Z [Modules] Host is up to date.
+2023-06-08T18:43:01.234Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-08T18:43:01.305Z [Modules] No module updates available.
+2023-06-13T20:22:27.501Z [Modules] Modules initializing
+2023-06-13T20:22:27.504Z [Modules] Distribution: remote
+2023-06-13T20:22:27.504Z [Modules] Host updates: enabled
+2023-06-13T20:22:27.504Z [Modules] Module updates: enabled
+2023-06-13T20:22:27.505Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-13T20:22:27.505Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-13T20:22:27.506Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-13T20:22:28.029Z [Modules] No updates to install
+2023-06-13T20:22:28.030Z [Modules] Checking for host updates.
+2023-06-13T20:22:29.148Z [Modules] Host is up to date.
+2023-06-13T20:22:29.149Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T20:22:29.284Z [Modules] No module updates available.
+2023-06-13T20:22:39.332Z [Modules] Checking for host updates.
+2023-06-13T20:22:39.552Z [Modules] Host is up to date.
+2023-06-13T20:22:39.552Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T20:22:39.554Z [Modules] No module updates available.
+2023-06-13T21:22:58.446Z [Modules] Modules initializing
+2023-06-13T21:22:58.449Z [Modules] Distribution: remote
+2023-06-13T21:22:58.449Z [Modules] Host updates: enabled
+2023-06-13T21:22:58.449Z [Modules] Module updates: enabled
+2023-06-13T21:22:58.455Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-13T21:22:58.455Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-13T21:22:58.455Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-13T21:22:58.986Z [Modules] No updates to install
+2023-06-13T21:22:58.988Z [Modules] Checking for host updates.
+2023-06-13T21:22:59.740Z [Modules] Host is up to date.
+2023-06-13T21:22:59.740Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T21:22:59.806Z [Modules] No module updates available.
+2023-06-13T21:23:07.173Z [Modules] Checking for host updates.
+2023-06-13T21:23:07.431Z [Modules] Host is up to date.
+2023-06-13T21:23:07.431Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T21:23:07.434Z [Modules] No module updates available.
+2023-06-13T22:23:07.181Z [Modules] Checking for host updates.
+2023-06-13T22:23:07.476Z [Modules] Host is up to date.
+2023-06-13T22:23:07.476Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T22:23:07.552Z [Modules] No module updates available.
+2023-06-13T23:23:07.179Z [Modules] Checking for host updates.
+2023-06-13T23:23:07.418Z [Modules] Host is up to date.
+2023-06-13T23:23:07.418Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-13T23:23:07.484Z [Modules] No module updates available.
+2023-06-14T00:23:07.175Z [Modules] Checking for host updates.
+2023-06-14T00:23:07.390Z [Modules] Host is up to date.
+2023-06-14T00:23:07.390Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T00:23:07.472Z [Modules] No module updates available.
+2023-06-14T01:23:07.181Z [Modules] Checking for host updates.
+2023-06-14T01:23:07.413Z [Modules] Host is up to date.
+2023-06-14T01:23:07.414Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T01:23:07.485Z [Modules] No module updates available.
+2023-06-14T02:23:07.173Z [Modules] Checking for host updates.
+2023-06-14T02:23:07.391Z [Modules] Host is up to date.
+2023-06-14T02:23:07.391Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T02:23:07.452Z [Modules] No module updates available.
+2023-06-14T19:28:28.812Z [Modules] Modules initializing
+2023-06-14T19:28:28.816Z [Modules] Distribution: remote
+2023-06-14T19:28:28.816Z [Modules] Host updates: enabled
+2023-06-14T19:28:28.816Z [Modules] Module updates: enabled
+2023-06-14T19:28:28.849Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-14T19:28:28.849Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-14T19:28:28.850Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-14T19:28:29.277Z [Modules] No updates to install
+2023-06-14T19:28:29.278Z [Modules] Checking for host updates.
+2023-06-14T19:28:30.217Z [Modules] Host is up to date.
+2023-06-14T19:28:30.217Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T19:28:30.292Z [Modules] No module updates available.
+2023-06-14T19:28:38.753Z [Modules] Checking for host updates.
+2023-06-14T19:28:38.960Z [Modules] Host is up to date.
+2023-06-14T19:28:38.961Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T19:28:39.029Z [Modules] No module updates available.
+2023-06-14T20:28:38.761Z [Modules] Checking for host updates.
+2023-06-14T20:28:38.992Z [Modules] Host is up to date.
+2023-06-14T20:28:38.992Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T20:28:39.061Z [Modules] No module updates available.
+2023-06-14T21:28:38.755Z [Modules] Checking for host updates.
+2023-06-14T21:28:38.975Z [Modules] Host is up to date.
+2023-06-14T21:28:38.975Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T21:28:39.047Z [Modules] No module updates available.
+2023-06-14T22:21:03.186Z [Modules] Modules initializing
+2023-06-14T22:21:03.189Z [Modules] Distribution: remote
+2023-06-14T22:21:03.189Z [Modules] Host updates: enabled
+2023-06-14T22:21:03.190Z [Modules] Module updates: enabled
+2023-06-14T22:21:03.200Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-14T22:21:03.200Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-14T22:21:03.201Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-14T22:21:03.623Z [Modules] No updates to install
+2023-06-14T22:21:03.624Z [Modules] Checking for host updates.
+2023-06-14T22:21:09.158Z [Modules] Host is up to date.
+2023-06-14T22:21:09.158Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T22:21:09.230Z [Modules] No module updates available.
+2023-06-14T22:21:17.464Z [Modules] Checking for host updates.
+2023-06-14T22:21:17.679Z [Modules] Host is up to date.
+2023-06-14T22:21:17.679Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T22:21:17.681Z [Modules] No module updates available.
+2023-06-14T23:21:17.473Z [Modules] Checking for host updates.
+2023-06-14T23:21:17.726Z [Modules] Host is up to date.
+2023-06-14T23:21:17.726Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-14T23:21:17.796Z [Modules] No module updates available.
+2023-06-15T00:21:17.470Z [Modules] Checking for host updates.
+2023-06-15T00:21:17.691Z [Modules] Host is up to date.
+2023-06-15T00:21:17.691Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T00:21:17.762Z [Modules] No module updates available.
+2023-06-15T01:21:17.471Z [Modules] Checking for host updates.
+2023-06-15T01:21:17.711Z [Modules] Host is up to date.
+2023-06-15T01:21:17.712Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T01:21:17.783Z [Modules] No module updates available.
+2023-06-15T02:21:17.472Z [Modules] Checking for host updates.
+2023-06-15T02:21:17.697Z [Modules] Host is up to date.
+2023-06-15T02:21:17.697Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T02:21:17.766Z [Modules] No module updates available.
+2023-06-15T03:21:17.472Z [Modules] Checking for host updates.
+2023-06-15T03:21:17.701Z [Modules] Host is up to date.
+2023-06-15T03:21:17.701Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T03:21:17.776Z [Modules] No module updates available.
+2023-06-15T20:17:47.699Z [Modules] Modules initializing
+2023-06-15T20:17:47.701Z [Modules] Distribution: remote
+2023-06-15T20:17:47.701Z [Modules] Host updates: enabled
+2023-06-15T20:17:47.701Z [Modules] Module updates: enabled
+2023-06-15T20:17:47.752Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-15T20:17:47.753Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-15T20:17:47.753Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-15T20:17:48.191Z [Modules] No updates to install
+2023-06-15T20:17:48.192Z [Modules] Checking for host updates.
+2023-06-15T20:17:49.097Z [Modules] Host is up to date.
+2023-06-15T20:17:49.098Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T20:17:49.167Z [Modules] No module updates available.
+2023-06-15T20:17:56.029Z [Modules] Checking for host updates.
+2023-06-15T20:17:56.244Z [Modules] Host is up to date.
+2023-06-15T20:17:56.244Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T20:17:56.246Z [Modules] No module updates available.
+2023-06-15T21:17:56.035Z [Modules] Checking for host updates.
+2023-06-15T21:17:56.290Z [Modules] Host is up to date.
+2023-06-15T21:17:56.291Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T21:17:56.362Z [Modules] No module updates available.
+2023-06-15T22:17:56.037Z [Modules] Checking for host updates.
+2023-06-15T22:17:56.280Z [Modules] Host is up to date.
+2023-06-15T22:17:56.280Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T22:17:56.361Z [Modules] No module updates available.
+2023-06-15T23:17:56.030Z [Modules] Checking for host updates.
+2023-06-15T23:17:56.276Z [Modules] Host is up to date.
+2023-06-15T23:17:56.276Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-15T23:17:56.347Z [Modules] No module updates available.
+2023-06-16T00:17:56.030Z [Modules] Checking for host updates.
+2023-06-16T00:17:56.267Z [Modules] Host is up to date.
+2023-06-16T00:17:56.267Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T00:17:56.339Z [Modules] No module updates available.
+2023-06-16T01:17:56.032Z [Modules] Checking for host updates.
+2023-06-16T01:17:56.267Z [Modules] Host is up to date.
+2023-06-16T01:17:56.267Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T01:17:56.343Z [Modules] No module updates available.
+2023-06-16T02:17:56.030Z [Modules] Checking for host updates.
+2023-06-16T02:17:56.270Z [Modules] Host is up to date.
+2023-06-16T02:17:56.270Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T02:17:56.342Z [Modules] No module updates available.
+2023-06-16T03:17:56.030Z [Modules] Checking for host updates.
+2023-06-16T03:17:56.264Z [Modules] Host is up to date.
+2023-06-16T03:17:56.264Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T03:17:56.332Z [Modules] No module updates available.
+2023-06-16T22:18:46.898Z [Modules] Modules initializing
+2023-06-16T22:18:46.902Z [Modules] Distribution: remote
+2023-06-16T22:18:46.902Z [Modules] Host updates: enabled
+2023-06-16T22:18:46.902Z [Modules] Module updates: enabled
+2023-06-16T22:18:46.928Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-16T22:18:46.928Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-16T22:18:46.929Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-16T22:18:47.405Z [Modules] No updates to install
+2023-06-16T22:18:47.405Z [Modules] Checking for host updates.
+2023-06-16T22:18:48.164Z [Modules] Host is up to date.
+2023-06-16T22:18:48.165Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T22:18:48.234Z [Modules] No module updates available.
+2023-06-16T22:18:56.137Z [Modules] Checking for host updates.
+2023-06-16T22:18:56.383Z [Modules] Host is up to date.
+2023-06-16T22:18:56.383Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T22:18:56.386Z [Modules] No module updates available.
+2023-06-16T23:18:56.139Z [Modules] Checking for host updates.
+2023-06-16T23:18:56.359Z [Modules] Host is up to date.
+2023-06-16T23:18:56.359Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-16T23:18:56.426Z [Modules] No module updates available.
+2023-06-17T00:18:56.138Z [Modules] Checking for host updates.
+2023-06-17T00:18:56.395Z [Modules] Host is up to date.
+2023-06-17T00:18:56.396Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T00:18:56.469Z [Modules] No module updates available.
+2023-06-17T01:18:56.138Z [Modules] Checking for host updates.
+2023-06-17T01:18:56.380Z [Modules] Host is up to date.
+2023-06-17T01:18:56.381Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T01:18:56.452Z [Modules] No module updates available.
+2023-06-17T02:18:56.138Z [Modules] Checking for host updates.
+2023-06-17T02:18:56.447Z [Modules] Host is up to date.
+2023-06-17T02:18:56.447Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T02:18:56.516Z [Modules] No module updates available.
+2023-06-17T03:18:56.141Z [Modules] Checking for host updates.
+2023-06-17T03:18:56.487Z [Modules] Host is up to date.
+2023-06-17T03:18:56.487Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T03:18:56.553Z [Modules] No module updates available.
+2023-06-17T04:18:56.143Z [Modules] Checking for host updates.
+2023-06-17T04:18:56.417Z [Modules] Host is up to date.
+2023-06-17T04:18:56.418Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T04:18:56.485Z [Modules] No module updates available.
+2023-06-17T17:02:14.603Z [Modules] Modules initializing
+2023-06-17T17:02:14.606Z [Modules] Distribution: remote
+2023-06-17T17:02:14.606Z [Modules] Host updates: enabled
+2023-06-17T17:02:14.607Z [Modules] Module updates: enabled
+2023-06-17T17:02:14.610Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-17T17:02:14.611Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-17T17:02:14.611Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-17T17:02:15.058Z [Modules] No updates to install
+2023-06-17T17:02:15.059Z [Modules] Checking for host updates.
+2023-06-17T17:02:15.728Z [Modules] Host is up to date.
+2023-06-17T17:02:15.730Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T17:02:15.803Z [Modules] No module updates available.
+2023-06-17T17:02:23.170Z [Modules] Checking for host updates.
+2023-06-17T17:02:23.372Z [Modules] Host is up to date.
+2023-06-17T17:02:23.372Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T17:02:23.374Z [Modules] No module updates available.
+2023-06-17T18:02:23.178Z [Modules] Checking for host updates.
+2023-06-17T18:02:23.461Z [Modules] Host is up to date.
+2023-06-17T18:02:23.462Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-17T18:02:23.539Z [Modules] No module updates available.
+2023-06-18T18:13:05.808Z [Modules] Modules initializing
+2023-06-18T18:13:05.811Z [Modules] Distribution: remote
+2023-06-18T18:13:05.811Z [Modules] Host updates: enabled
+2023-06-18T18:13:05.811Z [Modules] Module updates: enabled
+2023-06-18T18:13:05.861Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-18T18:13:05.861Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-18T18:13:05.861Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-18T18:13:06.248Z [Modules] No updates to install
+2023-06-18T18:13:06.249Z [Modules] Checking for host updates.
+2023-06-18T18:13:07.016Z [Modules] Host is up to date.
+2023-06-18T18:13:07.016Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T18:13:07.150Z [Modules] No module updates available.
+2023-06-18T18:13:15.077Z [Modules] Checking for host updates.
+2023-06-18T18:13:15.293Z [Modules] Host is up to date.
+2023-06-18T18:13:15.294Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T18:13:15.296Z [Modules] No module updates available.
+2023-06-18T19:13:15.083Z [Modules] Checking for host updates.
+2023-06-18T19:13:15.311Z [Modules] Host is up to date.
+2023-06-18T19:13:15.312Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T19:13:15.392Z [Modules] No module updates available.
+2023-06-18T20:13:15.079Z [Modules] Checking for host updates.
+2023-06-18T20:13:15.333Z [Modules] Host is up to date.
+2023-06-18T20:13:15.333Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T20:13:15.400Z [Modules] No module updates available.
+2023-06-18T21:13:15.082Z [Modules] Checking for host updates.
+2023-06-18T21:13:15.367Z [Modules] Host is up to date.
+2023-06-18T21:13:15.368Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T21:13:15.446Z [Modules] No module updates available.
+2023-06-18T22:13:15.078Z [Modules] Checking for host updates.
+2023-06-18T22:13:15.327Z [Modules] Host is up to date.
+2023-06-18T22:13:15.327Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T22:13:15.405Z [Modules] No module updates available.
+2023-06-18T23:13:15.078Z [Modules] Checking for host updates.
+2023-06-18T23:13:15.310Z [Modules] Host is up to date.
+2023-06-18T23:13:15.311Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-18T23:13:15.377Z [Modules] No module updates available.
+2023-06-19T00:13:15.078Z [Modules] Checking for host updates.
+2023-06-19T00:13:15.367Z [Modules] Host is up to date.
+2023-06-19T00:13:15.368Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T00:13:15.440Z [Modules] No module updates available.
+2023-06-19T01:13:15.078Z [Modules] Checking for host updates.
+2023-06-19T01:13:15.353Z [Modules] Host is up to date.
+2023-06-19T01:13:15.354Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T01:13:15.425Z [Modules] No module updates available.
+2023-06-19T02:13:15.078Z [Modules] Checking for host updates.
+2023-06-19T02:13:15.336Z [Modules] Host is up to date.
+2023-06-19T02:13:15.336Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T02:13:15.406Z [Modules] No module updates available.
+2023-06-19T03:13:15.078Z [Modules] Checking for host updates.
+2023-06-19T03:13:15.353Z [Modules] Host is up to date.
+2023-06-19T03:13:15.353Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T03:13:15.422Z [Modules] No module updates available.
+2023-06-19T19:13:34.900Z [Modules] Modules initializing
+2023-06-19T19:13:34.902Z [Modules] Distribution: remote
+2023-06-19T19:13:34.902Z [Modules] Host updates: enabled
+2023-06-19T19:13:34.902Z [Modules] Module updates: enabled
+2023-06-19T19:13:34.939Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-19T19:13:34.939Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-19T19:13:34.939Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-19T19:13:35.348Z [Modules] No updates to install
+2023-06-19T19:13:35.348Z [Modules] Checking for host updates.
+2023-06-19T19:13:35.942Z [Modules] Host is up to date.
+2023-06-19T19:13:35.943Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T19:13:36.010Z [Modules] No module updates available.
+2023-06-19T19:13:42.998Z [Modules] Checking for host updates.
+2023-06-19T19:13:43.224Z [Modules] Host is up to date.
+2023-06-19T19:13:43.225Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T19:13:43.227Z [Modules] No module updates available.
+2023-06-19T20:13:43.006Z [Modules] Checking for host updates.
+2023-06-19T20:13:43.250Z [Modules] Host is up to date.
+2023-06-19T20:13:43.251Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T20:13:43.321Z [Modules] No module updates available.
+2023-06-19T21:13:43.004Z [Modules] Checking for host updates.
+2023-06-19T21:13:43.221Z [Modules] Host is up to date.
+2023-06-19T21:13:43.221Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T21:13:43.303Z [Modules] No module updates available.
+2023-06-19T22:13:43.003Z [Modules] Checking for host updates.
+2023-06-19T22:13:43.231Z [Modules] Host is up to date.
+2023-06-19T22:13:43.232Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T22:13:43.297Z [Modules] No module updates available.
+2023-06-19T23:13:43.000Z [Modules] Checking for host updates.
+2023-06-19T23:13:43.216Z [Modules] Host is up to date.
+2023-06-19T23:13:43.216Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-19T23:13:43.287Z [Modules] No module updates available.
+2023-06-20T00:13:42.998Z [Modules] Checking for host updates.
+2023-06-20T00:13:43.213Z [Modules] Host is up to date.
+2023-06-20T00:13:43.213Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T00:13:43.278Z [Modules] No module updates available.
+2023-06-20T01:13:42.998Z [Modules] Checking for host updates.
+2023-06-20T01:13:43.213Z [Modules] Host is up to date.
+2023-06-20T01:13:43.214Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T01:13:43.283Z [Modules] No module updates available.
+2023-06-20T02:13:42.998Z [Modules] Checking for host updates.
+2023-06-20T02:13:43.229Z [Modules] Host is up to date.
+2023-06-20T02:13:43.230Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T02:13:43.295Z [Modules] No module updates available.
+2023-06-20T03:14:42.294Z [Modules] Modules initializing
+2023-06-20T03:14:42.298Z [Modules] Distribution: remote
+2023-06-20T03:14:42.298Z [Modules] Host updates: enabled
+2023-06-20T03:14:42.298Z [Modules] Module updates: enabled
+2023-06-20T03:14:42.315Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-20T03:14:42.316Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-20T03:14:42.316Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-20T03:14:42.768Z [Modules] No updates to install
+2023-06-20T03:14:42.769Z [Modules] Checking for host updates.
+2023-06-20T03:14:43.382Z [Modules] Host is up to date.
+2023-06-20T03:14:43.382Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T03:14:43.552Z [Modules] No module updates available.
+2023-06-20T03:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T03:14:52.794Z [Modules] Host is up to date.
+2023-06-20T03:14:52.794Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T03:14:52.797Z [Modules] No module updates available.
+2023-06-20T04:14:52.593Z [Modules] Checking for host updates.
+2023-06-20T04:14:52.806Z [Modules] Host is up to date.
+2023-06-20T04:14:52.806Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T04:14:52.869Z [Modules] No module updates available.
+2023-06-20T05:14:52.593Z [Modules] Checking for host updates.
+2023-06-20T05:14:52.804Z [Modules] Host is up to date.
+2023-06-20T05:14:52.805Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T05:14:52.867Z [Modules] No module updates available.
+2023-06-20T06:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T06:14:52.809Z [Modules] Host is up to date.
+2023-06-20T06:14:52.809Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T06:14:52.869Z [Modules] No module updates available.
+2023-06-20T07:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T07:14:52.818Z [Modules] Host is up to date.
+2023-06-20T07:14:52.818Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T07:14:52.885Z [Modules] No module updates available.
+2023-06-20T08:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T08:14:52.847Z [Modules] Host is up to date.
+2023-06-20T08:14:52.847Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T08:14:52.917Z [Modules] No module updates available.
+2023-06-20T09:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T09:14:52.828Z [Modules] Host is up to date.
+2023-06-20T09:14:52.828Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T09:14:52.901Z [Modules] No module updates available.
+2023-06-20T10:14:52.591Z [Modules] Checking for host updates.
+2023-06-20T10:14:52.886Z [Modules] Host is up to date.
+2023-06-20T10:14:52.886Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T10:14:52.954Z [Modules] No module updates available.
+2023-06-20T22:43:36.513Z [Modules] Modules initializing
+2023-06-20T22:43:36.516Z [Modules] Distribution: remote
+2023-06-20T22:43:36.516Z [Modules] Host updates: enabled
+2023-06-20T22:43:36.516Z [Modules] Module updates: enabled
+2023-06-20T22:43:36.534Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-20T22:43:36.534Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-20T22:43:36.534Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-20T22:43:36.924Z [Modules] No updates to install
+2023-06-20T22:43:36.925Z [Modules] Checking for host updates.
+2023-06-20T22:43:37.601Z [Modules] Host is up to date.
+2023-06-20T22:43:37.601Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T22:43:37.640Z [Modules] No module updates available.
+2023-06-20T22:43:52.272Z [Modules] Checking for host updates.
+2023-06-20T22:43:52.505Z [Modules] Host is up to date.
+2023-06-20T22:43:52.505Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T22:43:52.507Z [Modules] No module updates available.
+2023-06-20T23:43:52.280Z [Modules] Checking for host updates.
+2023-06-20T23:43:52.523Z [Modules] Host is up to date.
+2023-06-20T23:43:52.523Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-20T23:43:52.598Z [Modules] No module updates available.
+2023-06-21T00:43:52.274Z [Modules] Checking for host updates.
+2023-06-21T00:43:52.498Z [Modules] Host is up to date.
+2023-06-21T00:43:52.498Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T00:43:52.562Z [Modules] No module updates available.
+2023-06-21T01:43:52.272Z [Modules] Checking for host updates.
+2023-06-21T01:43:52.516Z [Modules] Host is up to date.
+2023-06-21T01:43:52.516Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T01:43:52.594Z [Modules] No module updates available.
+2023-06-21T02:43:52.280Z [Modules] Checking for host updates.
+2023-06-21T02:43:52.513Z [Modules] Host is up to date.
+2023-06-21T02:43:52.514Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T02:43:52.584Z [Modules] No module updates available.
+2023-06-21T19:12:11.219Z [Modules] Modules initializing
+2023-06-21T19:12:11.222Z [Modules] Distribution: remote
+2023-06-21T19:12:11.222Z [Modules] Host updates: enabled
+2023-06-21T19:12:11.222Z [Modules] Module updates: enabled
+2023-06-21T19:12:11.236Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-21T19:12:11.236Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-21T19:12:11.237Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-21T19:12:11.714Z [Modules] No updates to install
+2023-06-21T19:12:11.715Z [Modules] Checking for host updates.
+2023-06-21T19:12:12.449Z [Modules] Host is up to date.
+2023-06-21T19:12:12.449Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T19:12:12.537Z [Modules] No module updates available.
+2023-06-21T19:12:21.284Z [Modules] Checking for host updates.
+2023-06-21T19:12:21.492Z [Modules] Host is up to date.
+2023-06-21T19:12:21.492Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T19:12:21.495Z [Modules] No module updates available.
+2023-06-21T20:12:21.290Z [Modules] Checking for host updates.
+2023-06-21T20:12:21.521Z [Modules] Host is up to date.
+2023-06-21T20:12:21.522Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T20:12:21.597Z [Modules] No module updates available.
+2023-06-21T21:12:21.284Z [Modules] Checking for host updates.
+2023-06-21T21:12:21.547Z [Modules] Host is up to date.
+2023-06-21T21:12:21.548Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T21:12:21.627Z [Modules] No module updates available.
+2023-06-21T22:12:21.284Z [Modules] Checking for host updates.
+2023-06-21T22:12:21.539Z [Modules] Host is up to date.
+2023-06-21T22:12:21.540Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T22:12:21.610Z [Modules] No module updates available.
+2023-06-21T23:12:21.288Z [Modules] Checking for host updates.
+2023-06-21T23:12:21.525Z [Modules] Host is up to date.
+2023-06-21T23:12:21.525Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-21T23:12:21.603Z [Modules] No module updates available.
+2023-06-22T00:12:21.284Z [Modules] Checking for host updates.
+2023-06-22T00:12:21.585Z [Modules] Host is up to date.
+2023-06-22T00:12:21.586Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T00:12:21.658Z [Modules] No module updates available.
+2023-06-22T01:12:21.284Z [Modules] Checking for host updates.
+2023-06-22T01:12:22.622Z [Modules] Host is up to date.
+2023-06-22T01:12:22.623Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T01:12:22.703Z [Modules] No module updates available.
+2023-06-22T02:12:21.284Z [Modules] Checking for host updates.
+2023-06-22T02:12:21.503Z [Modules] Host is up to date.
+2023-06-22T02:12:21.503Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T02:12:21.568Z [Modules] No module updates available.
+2023-06-22T03:12:21.284Z [Modules] Checking for host updates.
+2023-06-22T03:12:21.519Z [Modules] Host is up to date.
+2023-06-22T03:12:21.519Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T03:12:21.590Z [Modules] No module updates available.
+2023-06-22T04:12:21.289Z [Modules] Checking for host updates.
+2023-06-22T04:12:21.506Z [Modules] Host is up to date.
+2023-06-22T04:12:21.506Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T04:12:21.569Z [Modules] No module updates available.
+2023-06-22T23:58:58.747Z [Modules] Modules initializing
+2023-06-22T23:58:58.750Z [Modules] Distribution: remote
+2023-06-22T23:58:58.750Z [Modules] Host updates: enabled
+2023-06-22T23:58:58.750Z [Modules] Module updates: enabled
+2023-06-22T23:58:58.779Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-22T23:58:58.779Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-22T23:58:58.779Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-22T23:58:59.202Z [Modules] No updates to install
+2023-06-22T23:58:59.202Z [Modules] Checking for host updates.
+2023-06-22T23:58:59.885Z [Modules] Host is up to date.
+2023-06-22T23:58:59.885Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T23:58:59.970Z [Modules] No module updates available.
+2023-06-22T23:59:08.730Z [Modules] Checking for host updates.
+2023-06-22T23:59:08.940Z [Modules] Host is up to date.
+2023-06-22T23:59:08.940Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-22T23:59:08.942Z [Modules] No module updates available.
+2023-06-23T00:59:08.735Z [Modules] Checking for host updates.
+2023-06-23T00:59:08.948Z [Modules] Host is up to date.
+2023-06-23T00:59:08.948Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T00:59:09.010Z [Modules] No module updates available.
+2023-06-23T01:59:08.739Z [Modules] Checking for host updates.
+2023-06-23T01:59:09.024Z [Modules] Host is up to date.
+2023-06-23T01:59:09.025Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T01:59:09.094Z [Modules] No module updates available.
+2023-06-23T02:59:08.738Z [Modules] Checking for host updates.
+2023-06-23T02:59:08.963Z [Modules] Host is up to date.
+2023-06-23T02:59:08.963Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T02:59:09.041Z [Modules] No module updates available.
+2023-06-23T21:11:45.033Z [Modules] Modules initializing
+2023-06-23T21:11:45.036Z [Modules] Distribution: remote
+2023-06-23T21:11:45.036Z [Modules] Host updates: enabled
+2023-06-23T21:11:45.036Z [Modules] Module updates: enabled
+2023-06-23T21:11:45.088Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-23T21:11:45.088Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-23T21:11:45.088Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-23T21:11:45.442Z [Modules] No updates to install
+2023-06-23T21:11:45.442Z [Modules] Checking for host updates.
+2023-06-23T21:11:46.224Z [Modules] Host is up to date.
+2023-06-23T21:11:46.224Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T21:11:46.288Z [Modules] No module updates available.
+2023-06-23T21:11:53.044Z [Modules] Checking for host updates.
+2023-06-23T21:11:53.244Z [Modules] Host is up to date.
+2023-06-23T21:11:53.244Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T21:11:53.246Z [Modules] No module updates available.
+2023-06-23T22:11:53.045Z [Modules] Checking for host updates.
+2023-06-23T22:11:53.264Z [Modules] Host is up to date.
+2023-06-23T22:11:53.264Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T22:11:53.337Z [Modules] No module updates available.
+2023-06-23T23:11:53.045Z [Modules] Checking for host updates.
+2023-06-23T23:11:53.261Z [Modules] Host is up to date.
+2023-06-23T23:11:53.262Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-23T23:11:53.328Z [Modules] No module updates available.
+2023-06-24T00:11:53.052Z [Modules] Checking for host updates.
+2023-06-24T00:11:53.294Z [Modules] Host is up to date.
+2023-06-24T00:11:53.294Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T00:11:53.379Z [Modules] No module updates available.
+2023-06-24T01:11:53.045Z [Modules] Checking for host updates.
+2023-06-24T01:11:53.274Z [Modules] Host is up to date.
+2023-06-24T01:11:53.274Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T01:11:53.343Z [Modules] No module updates available.
+2023-06-24T02:11:53.045Z [Modules] Checking for host updates.
+2023-06-24T02:11:53.270Z [Modules] Host is up to date.
+2023-06-24T02:11:53.270Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T02:11:53.341Z [Modules] No module updates available.
+2023-06-24T03:11:53.047Z [Modules] Checking for host updates.
+2023-06-24T03:11:53.271Z [Modules] Host is up to date.
+2023-06-24T03:11:53.271Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T03:11:53.339Z [Modules] No module updates available.
+2023-06-24T04:11:53.050Z [Modules] Checking for host updates.
+2023-06-24T04:11:53.272Z [Modules] Host is up to date.
+2023-06-24T04:11:53.272Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T04:11:53.340Z [Modules] No module updates available.
+2023-06-24T05:11:53.044Z [Modules] Checking for host updates.
+2023-06-24T05:11:53.288Z [Modules] Host is up to date.
+2023-06-24T05:11:53.289Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T05:11:53.369Z [Modules] No module updates available.
+2023-06-24T17:33:43.709Z [Modules] Modules initializing
+2023-06-24T17:33:43.712Z [Modules] Distribution: remote
+2023-06-24T17:33:43.712Z [Modules] Host updates: enabled
+2023-06-24T17:33:43.712Z [Modules] Module updates: enabled
+2023-06-24T17:33:43.763Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-24T17:33:43.763Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-24T17:33:43.763Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-24T17:33:44.201Z [Modules] No updates to install
+2023-06-24T17:33:44.202Z [Modules] Checking for host updates.
+2023-06-24T17:33:44.803Z [Modules] Host is up to date.
+2023-06-24T17:33:44.804Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T17:33:44.867Z [Modules] No module updates available.
+2023-06-24T17:33:52.121Z [Modules] Checking for host updates.
+2023-06-24T17:33:52.324Z [Modules] Host is up to date.
+2023-06-24T17:33:52.324Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T17:33:52.334Z [Modules] No module updates available.
+2023-06-24T18:33:52.127Z [Modules] Checking for host updates.
+2023-06-24T18:33:52.340Z [Modules] Host is up to date.
+2023-06-24T18:33:52.340Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T18:33:52.411Z [Modules] No module updates available.
+2023-06-24T19:33:52.122Z [Modules] Checking for host updates.
+2023-06-24T19:33:52.327Z [Modules] Host is up to date.
+2023-06-24T19:33:52.328Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T19:33:52.382Z [Modules] No module updates available.
+2023-06-24T22:35:21.189Z [Modules] Modules initializing
+2023-06-24T22:35:21.192Z [Modules] Distribution: remote
+2023-06-24T22:35:21.192Z [Modules] Host updates: enabled
+2023-06-24T22:35:21.192Z [Modules] Module updates: enabled
+2023-06-24T22:35:21.202Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-24T22:35:21.202Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-24T22:35:21.202Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-24T22:35:21.583Z [Modules] No updates to install
+2023-06-24T22:35:21.583Z [Modules] Checking for host updates.
+2023-06-24T22:35:22.135Z [Modules] Host is up to date.
+2023-06-24T22:35:22.136Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T22:35:22.203Z [Modules] No module updates available.
+2023-06-24T22:35:29.855Z [Modules] Checking for host updates.
+2023-06-24T22:35:30.058Z [Modules] Host is up to date.
+2023-06-24T22:35:30.058Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T22:35:30.060Z [Modules] No module updates available.
+2023-06-24T23:35:29.864Z [Modules] Checking for host updates.
+2023-06-24T23:35:30.102Z [Modules] Host is up to date.
+2023-06-24T23:35:30.103Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-24T23:35:30.178Z [Modules] No module updates available.
+2023-06-25T00:35:29.859Z [Modules] Checking for host updates.
+2023-06-25T00:35:30.076Z [Modules] Host is up to date.
+2023-06-25T00:35:30.076Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-25T00:35:30.144Z [Modules] No module updates available.
+2023-06-25T21:09:08.211Z [Modules] Modules initializing
+2023-06-25T21:09:08.214Z [Modules] Distribution: remote
+2023-06-25T21:09:08.214Z [Modules] Host updates: enabled
+2023-06-25T21:09:08.214Z [Modules] Module updates: enabled
+2023-06-25T21:09:08.243Z [Modules] Module install path: /home/louues/.config/discord/0.0.27/modules
+2023-06-25T21:09:08.243Z [Modules] Module installed file path: /home/louues/.config/discord/0.0.27/modules/installed.json
+2023-06-25T21:09:08.243Z [Modules] Module download path: /home/louues/.config/discord/0.0.27/modules/pending
+2023-06-25T21:09:08.674Z [Modules] No updates to install
+2023-06-25T21:09:08.674Z [Modules] Checking for host updates.
+2023-06-25T21:09:09.105Z [Modules] Host is up to date.
+2023-06-25T21:09:09.105Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-25T21:09:09.179Z [Modules] No module updates available.
+2023-06-25T21:09:15.743Z [Modules] Checking for host updates.
+2023-06-25T21:09:15.948Z [Modules] Host is up to date.
+2023-06-25T21:09:15.948Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-25T21:09:15.950Z [Modules] No module updates available.
+2023-06-25T22:09:15.747Z [Modules] Checking for host updates.
+2023-06-25T22:09:15.978Z [Modules] Host is up to date.
+2023-06-25T22:09:15.978Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-25T22:09:16.043Z [Modules] No module updates available.
+2023-06-25T23:09:15.751Z [Modules] Checking for host updates.
+2023-06-25T23:09:16.005Z [Modules] Host is up to date.
+2023-06-25T23:09:16.005Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-25T23:09:16.099Z [Modules] No module updates available.
+2023-06-26T00:09:15.751Z [Modules] Checking for host updates.
+2023-06-26T00:09:16.002Z [Modules] Host is up to date.
+2023-06-26T00:09:16.002Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-26T00:09:16.070Z [Modules] No module updates available.
+2023-06-26T01:09:15.751Z [Modules] Checking for host updates.
+2023-06-26T01:09:15.972Z [Modules] Host is up to date.
+2023-06-26T01:09:15.972Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-26T01:09:16.038Z [Modules] No module updates available.
+2023-06-26T02:09:15.748Z [Modules] Checking for host updates.
+2023-06-26T02:09:15.969Z [Modules] Host is up to date.
+2023-06-26T02:09:15.969Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-26T02:09:16.036Z [Modules] No module updates available.
+2023-06-26T03:09:15.744Z [Modules] Checking for host updates.
+2023-06-26T03:09:15.969Z [Modules] Host is up to date.
+2023-06-26T03:09:15.969Z [Modules] Checking for module updates at https://discord.com/api/modules/stable/versions.json
+2023-06-26T03:09:16.038Z [Modules] No module updates available.
