@@ -1,0 +1,11 @@
+[Default Applications]
+application/pdf=mupdf.desktop
+application/url=qutebrowser.desktop
+x-scheme-handler/mailto=userapp-Thunderbird-UBV641.desktop
+message/rfc822=userapp-Thunderbird-UBV641.desktop
+x-scheme-handler/mid=userapp-Thunderbird-UBV641.desktop
+x-scheme-handler/ytmd=youtube-music-desktop-app_youtube-music-desktop-app.desktop
+
+[Added Associations]
+x-scheme-handler/mailto=userapp-Thunderbird-UBV641.desktop;
+x-scheme-handler/mid=userapp-Thunderbird-UBV641.desktop;
