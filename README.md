@@ -13,5 +13,5 @@ Adding ssh key:
 ```
 ssh-keygen -t rsa -b 2048 -C "taborda.lmf@gmail.com"
 copy key in ~/.ssh/id_rsa.pub
-paste in gitlab.com -> Edit profile -> SSH keys
+paste in github.com -> Edit profile -> SSH keys
 ```
